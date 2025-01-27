@@ -109,7 +109,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -157,6 +157,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -734,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_0": 2367142571044227226
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_1": -4426320329589060263
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_10": 561476567030934006
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_11": -6647616450952892152
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_12": 7226411579819415754
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_13": 6941019938328476510
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_14": 3375712754112919759
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_15": -8613454703238831114
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_16": 4509154463630402125
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_17": 5953346098601022045
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_18": -1740676737254473739
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_19": 8779873154731312949
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_2": -3556331337325339610
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_20": -548466717528382075
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_21": 5766435547265421724
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_22": -2512713502523810220
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_23": -3557715502456245663
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_24": -8937381290091990855
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_3": -1687853920215651273
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_4": -1732192118940693370
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_5": -7442131150576819012
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_6": 8314365389985371771
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_7": 2393939033607909834
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_8": 5390775114805393028
+      "Screenshot_2025-01-24_at_16-06-56_Pixel_art_character_people_Colecci\xF3n_de_ilustradores_vectoriales_de_8_bits_Vector_Premium-removebg-preview_9": -8443549351490644684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
