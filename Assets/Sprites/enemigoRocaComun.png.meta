@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 07efc64a2687a4854be36f4fd918066d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7713001560689154978
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_0
+  - first:
+      213: 6588939783074549740
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_1
+  - first:
+      213: -8807207862304541333
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_2
+  - first:
+      213: 7092381116219328587
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_3
+  - first:
+      213: 2118588095198495492
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_4
+  - first:
+      213: 7291501635664074294
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_5
+  - first:
+      213: -7633140648916157732
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_6
+  - first:
+      213: -1033174545529546774
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e61f12f9e5f490800000000000000
+      internalID: -7713001560689154978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 33
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0990b2dd907b50800000000000000
+      internalID: 6588939783074549740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 38
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657f40ac1386c580800000000000000
+      internalID: -8807207862304541333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4801f35c033d6260800000000000000
+      internalID: 7092381116219328587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 255
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4038da7d5acb66d10800000000000000
+      internalID: 2118588095198495492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636dfe80b1e903560800000000000000
+      internalID: 7291501635664074294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 255
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaf1cc9503a11690800000000000000
+      internalID: -7633140648916157732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 223
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae75cbe893d69a1f0800000000000000
+      internalID: -1033174545529546774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_0: -7713001560689154978
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_1: 6588939783074549740
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_2: -8807207862304541333
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_3: 7092381116219328587
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_4: 2118588095198495492
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_5: 7291501635664074294
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_6: -7633140648916157732
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_7: -1033174545529546774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

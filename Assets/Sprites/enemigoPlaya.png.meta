@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: f5eae6b2ee55fd32e9a1bb4092795357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4748355604865188001
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_0
+  - first:
+      213: 3209400886413540810
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_1
+  - first:
+      213: 7602613530098799339
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_2
+  - first:
+      213: -5600453302412291620
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_3
+  - first:
+      213: -4061744388679001799
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_4
+  - first:
+      213: 6775038883285441485
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_5
+  - first:
+      213: 4849841325959908891
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_6
+  - first:
+      213: -8159705900003697502
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_7
+  - first:
+      213: 4057331481824832102
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_8
+  - first:
+      213: -5394002152389871593
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_9
+  - first:
+      213: 3922364666449270251
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_10
+  - first:
+      213: -7652353248836238891
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_11
+  - first:
+      213: 9054019568064198397
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_12
+  - first:
+      213: -1876689624738201806
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_13
+  - first:
+      213: -4917809953552097119
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_14
+  - first:
+      213: -9130472343525682606
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_15
+  - first:
+      213: -2336879556091090412
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_16
+  - first:
+      213: -370125744513071
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_17
+  - first:
+      213: -5098139409987249797
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_18
+  - first:
+      213: 2092015346717281782
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_19
+  - first:
+      213: 6239403601800839227
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_20
+  - first:
+      213: 8763829187007410955
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_21
+  - first:
+      213: 2769394036880561573
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_22
+  - first:
+      213: -6865389054852405155
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_23
+  - first:
+      213: -9102532704357327240
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_24
+  - first:
+      213: -3908973861124584362
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_25
+  - first:
+      213: -977547453049034401
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_26
+  - first:
+      213: 4205892617325471305
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_27
+  - first:
+      213: 1110372716254807030
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_28
+  - first:
+      213: 4628156168394180329
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_29
+  - first:
+      213: -2572692758212997129
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_30
+  - first:
+      213: 4402957272434044631
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_31
+  - first:
+      213: 406847378967386463
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_32
+  - first:
+      213: -7421913224603156304
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_33
+  - first:
+      213: -7595056320641050958
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_34
+  - first:
+      213: 5130906870980858902
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_35
+  - first:
+      213: 7075646517355488464
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_36
+  - first:
+      213: -6681473567346133848
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_37
+  - first:
+      213: 3992099714302198244
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_38
+  - first:
+      213: -3454718100189295082
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_39
+  - first:
+      213: -2189472089046656834
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_40
+  - first:
+      213: 4178786434374109891
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_41
+  - first:
+      213: -4793599488527329350
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_42
+  - first:
+      213: 18740853628963219
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_43
+  - first:
+      213: -427627751534162404
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_44
+  - first:
+      213: -1725884732790866748
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_45
+  - first:
+      213: 2942621380245321485
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_46
+  - first:
+      213: 6712714062147552062
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_47
+  - first:
+      213: 7777597375205199058
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_48
+  - first:
+      213: 7509698304030207892
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_49
+  - first:
+      213: -9107807308108923854
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_50
+  - first:
+      213: -2962444365913521757
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_51
+  - first:
+      213: 4830053639360967511
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_52
+  - first:
+      213: -3766149368899800048
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_53
+  - first:
+      213: -7881347784705731468
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_54
+  - first:
+      213: -4968671420051299409
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_55
+  - first:
+      213: -3509892956337942814
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_56
+  - first:
+      213: 6268761507639573313
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_57
+  - first:
+      213: -6790061449019044508
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_58
+  - first:
+      213: -5867074578930552439
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_59
+  - first:
+      213: -8921572403259368103
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_60
+  - first:
+      213: 1582936072248260891
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_61
+  - first:
+      213: 2414446006005963437
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_62
+  - first:
+      213: 6905832023577440739
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_63
+  - first:
+      213: 6241030722161668977
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_64
+  - first:
+      213: -7659751026005965905
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_65
+  - first:
+      213: -579081755870998641
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_66
+  - first:
+      213: -7509449157390347879
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_67
+  - first:
+      213: 5812414935504596481
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_68
+  - first:
+      213: -3488918607879132433
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_69
+  - first:
+      213: 8831007308228272632
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_70
+  - first:
+      213: 3910966006144030727
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_71
+  - first:
+      213: 2587346253347114865
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_72
+  - first:
+      213: 1904857297322932070
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_73
+  - first:
+      213: 1732231052916423575
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_74
+  - first:
+      213: -5769900910310668324
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_75
+  - first:
+      213: 4309336249352431054
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_76
+  - first:
+      213: 7009360158198110754
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_77
+  - first:
+      213: -6786733732978635054
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_78
+  - first:
+      213: -2459649112060834441
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_79
+  - first:
+      213: -7861400248009526695
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_80
+  - first:
+      213: -1494752600800586258
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_81
+  - first:
+      213: 5368104703936153843
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_82
+  - first:
+      213: -5323874370036612888
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_83
+  - first:
+      213: -263174213187516492
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_84
+  - first:
+      213: -8518547714662227628
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_85
+  - first:
+      213: -1894870649560315554
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_86
+  - first:
+      213: 3048102994747976168
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_87
+  - first:
+      213: 9135526872683772459
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_88
+  - first:
+      213: -9005535818337717574
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_89
+  - first:
+      213: 1979937423105820878
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_90
+  - first:
+      213: -4814059700407985987
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_91
+  - first:
+      213: -1863183666521547577
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_92
+  - first:
+      213: -8038337176186925287
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_93
+  - first:
+      213: -3099256973038627441
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_94
+  - first:
+      213: 5194591261536851215
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_95
+  - first:
+      213: 7235407768620388076
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_96
+  - first:
+      213: -504341244683582636
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_97
+  - first:
+      213: -3081716275867303777
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_98
+  - first:
+      213: 7115966494271533598
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_99
+  - first:
+      213: -6854473933936273836
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_100
+  - first:
+      213: 4325257308572406197
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_101
+  - first:
+      213: 2078753630095743105
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_102
+  - first:
+      213: -7087420885020099444
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_103
+  - first:
+      213: 294805691217097319
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_104
+  - first:
+      213: 8110151020255733485
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_105
+  - first:
+      213: 2134040040375116173
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_106
+  - first:
+      213: -4938955884726207018
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_107
+  - first:
+      213: -1042667906581998155
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_108
+  - first:
+      213: 8958587664984432031
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_109
+  - first:
+      213: -3806092356471890032
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_110
+  - first:
+      213: 8449826607832532331
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_111
+  - first:
+      213: -7779071183936041136
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_112
+  - first:
+      213: 3156344213963731104
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_113
+  - first:
+      213: -7918971859690543125
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_114
+  - first:
+      213: -7153799823491698072
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_115
+  - first:
+      213: -8220753842688070652
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_116
+  - first:
+      213: -2225606277252677081
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_117
+  - first:
+      213: 2428463400769787627
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_118
+  - first:
+      213: -6989510378030053493
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_119
+  - first:
+      213: -2074126199141528182
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_120
+  - first:
+      213: -3866355604289482263
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_121
+  - first:
+      213: -8370828903691645773
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_122
+  - first:
+      213: -5312986468452470540
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_123
+  - first:
+      213: 3960418935385625859
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_124
+  - first:
+      213: -4557713430454336042
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_125
+  - first:
+      213: -4347885107495282734
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_126
+  - first:
+      213: -7717193892773255713
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_127
+  - first:
+      213: -1619353941248962679
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_128
+  - first:
+      213: -1301335611739311467
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_129
+  - first:
+      213: 8748962520467458045
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_130
+  - first:
+      213: 3979273331189361508
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_131
+  - first:
+      213: 6886643421830954204
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_132
+  - first:
+      213: -2341045571599597723
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_133
+  - first:
+      213: -3136397380167553612
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_134
+  - first:
+      213: -705967504030280628
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_135
+  - first:
+      213: -4566579990195493109
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_136
+  - first:
+      213: 9029528677331342981
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_137
+  - first:
+      213: 5319796523016057067
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_138
+  - first:
+      213: -8212465984531883765
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_139
+  - first:
+      213: 7895948247767154467
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_140
+  - first:
+      213: -1817382803939375237
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_141
+  - first:
+      213: -5558713861312019285
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_142
+  - first:
+      213: -2848516233834289569
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_143
+  - first:
+      213: 8064240071814239459
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_144
+  - first:
+      213: 7846875014411656297
+    second: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1396
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a08937c34c85e140800000000000000
+      internalID: 4748355604865188001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1344
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb0802a151a8c20800000000000000
+      internalID: 3209400886413540810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1338
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21e1aa9b8e18960800000000000000
+      internalID: 7602613530098799339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1343
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15d88d4613742b0800000000000000
+      internalID: -5600453302412291620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1346
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9391a50aff8c1a7c0800000000000000
+      internalID: -4061744388679001799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1345
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb10b9f7f5c50e50800000000000000
+      internalID: 6775038883285441485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1344
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e89da8df81e4340800000000000000
+      internalID: 4849841325959908891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1286
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acde9647b6e2ce80800000000000000
+      internalID: -8159705900003697502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1287
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aad2e6c798e4830800000000000000
+      internalID: 4057331481824832102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1288
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718fb1dfe97a425b0800000000000000
+      internalID: -5394002152389871593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1285
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5904fe1e90f6630800000000000000
+      internalID: 3922364666449270251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d14f4b93416dc590800000000000000
+      internalID: -7652353248836238891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1286
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6f6efa3d656ad70800000000000000
+      internalID: 9054019568064198397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1228
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f71dbbab8a4f5e0800000000000000
+      internalID: -1876689624738201806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1228
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0a5a527ed60cbb0800000000000000
+      internalID: -4917809953552097119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1228
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2529f9467cb0a4180800000000000000
+      internalID: -9130472343525682606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1176
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a6150dc6cb19fd0800000000000000
+      internalID: -2336879556091090412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1124
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfd9726f5faefff0800000000000000
+      internalID: -370125744513071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1124
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795a4cb735cf39b0800000000000000
+      internalID: -5098139409987249797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1121
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdcfb5bfd4580d10800000000000000
+      internalID: 2092015346717281782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1124
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c1af9480d69650800000000000000
+      internalID: 6239403601800839227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1124
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f6cb76306f9970800000000000000
+      internalID: 8763829187007410955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1124
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5d953243dde6620800000000000000
+      internalID: 2769394036880561573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1123
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58eaac670d39b0a0800000000000000
+      internalID: -6865389054852405155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1066
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed7609bbe4da180800000000000000
+      internalID: -9102532704357327240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1061
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc163ebf880c9c0800000000000000
+      internalID: -3908973861124584362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1057
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59aced45cd0f62f0800000000000000
+      internalID: -977547453049034401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1066
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9466f1b3d055e5a30800000000000000
+      internalID: 4205892617325471305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1005
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f347a83a16d86f00800000000000000
+      internalID: 1110372716254807030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1010
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e60b2e93838a3040800000000000000
+      internalID: 4628156168394180329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1006
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff8e7e2195fb4cd0800000000000000
+      internalID: -2572692758212997129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1004
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de67a8bf427a1d30800000000000000
+      internalID: 4402957272434044631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1004
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59562d198965a500800000000000000
+      internalID: 406847378967386463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1004
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b041c5ce31100990800000000000000
+      internalID: -7421913224603156304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1004
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6da174480f89690800000000000000
+      internalID: -7595056320641050958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1004
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614dc6c4d94a43740800000000000000
+      internalID: 5130906870980858902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_36
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1004
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d42437e40fb13260800000000000000
+      internalID: 7075646517355488464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 952
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4fb22c033a643a0800000000000000
+      internalID: -6681473567346133848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 952
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1cbe20a89c66730800000000000000
+      internalID: 3992099714302198244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 949
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eca1711306e00d0800000000000000
+      internalID: -3454718100189295082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 948
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ddbe3cbe6d91e0800000000000000
+      internalID: -2189472089046656834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 948
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca07153f180ef930800000000000000
+      internalID: 4178786434374109891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 948
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab795daa9a6b97db0800000000000000
+      internalID: -4793599488527329350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 949
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399875305b4924000800000000000000
+      internalID: 18740853628963219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 951
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e05bd53d2c01af0800000000000000
+      internalID: -427627751534162404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 952
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccfabacafc6c08e0800000000000000
+      internalID: -1725884732790866748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 896
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07fdfdfd8a46d820800000000000000
+      internalID: 2942621380245321485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 844
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330311cfd9582d50800000000000000
+      internalID: 6712714062147552062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 788
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dccd13fa939feb60800000000000000
+      internalID: 7777597375205199058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 735
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe216c1dec73860800000000000000
+      internalID: 7509698304030207892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 735
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf57d22819a9180800000000000000
+      internalID: -9107807308108923854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 737
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10ede7b8843e6d0800000000000000
+      internalID: -2962444365913521757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 738
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753713cb13cc70340800000000000000
+      internalID: 4830053639360967511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 737
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0147aa75a13fbbbc0800000000000000
+      internalID: -3766149368899800048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 735
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749d4d62f3df9290800000000000000
+      internalID: -7881347784705731468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 737
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e43a2babbb0bb0800000000000000
+      internalID: -4968671420051299409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 738
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec4d1d3fa5a4fc0800000000000000
+      internalID: -3509892956337942814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 737
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bbf7cb06d1ff650800000000000000
+      internalID: 6268761507639573313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_58
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 735
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d4520661bd4c1a0800000000000000
+      internalID: -6790061449019044508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_59
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 735
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981be1c61c6f39ea0800000000000000
+      internalID: -5867074578930552439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_60
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 735
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d1cc1fa25303480800000000000000
+      internalID: -8921572403259368103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 682
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19728098f7b7f510800000000000000
+      internalID: 1582936072248260891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 684
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9855a9d5d18120800000000000000
+      internalID: 2414446006005963437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 688
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b9d303a176df50800000000000000
+      internalID: 6905832023577440739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 683
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173feba10689c9650800000000000000
+      internalID: 6241030722161668977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 629
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa30bf2660913b590800000000000000
+      internalID: -7659751026005965905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 629
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f466d0630b6f7f0800000000000000
+      internalID: -579081755870998641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_67
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 631
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99154e237c319c790800000000000000
+      internalID: -7509449157390347879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 632
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e2ded9698d9a050800000000000000
+      internalID: 5812414935504596481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 631
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2d1fd20fd49fc0800000000000000
+      internalID: -3488918607879132433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_70
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 629
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f123dfab5a0e8a70800000000000000
+      internalID: 8831007308228272632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_71
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 631
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d7d48cda864630800000000000000
+      internalID: 3910966006144030727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_72
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 632
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f41b585b918e320800000000000000
+      internalID: 2587346253347114865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_73
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 631
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6677eba9e996f6a10800000000000000
+      internalID: 1904857297322932070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_74
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 629
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bfbf107fe1a0810800000000000000
+      internalID: 1732231052916423575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_75
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 629
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7cabb31b13defa0800000000000000
+      internalID: -5769900910310668324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_76
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 629
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ad58ac76ddcb30800000000000000
+      internalID: 4309336249352431054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 577
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a9c2c3def364160800000000000000
+      internalID: 7009360158198110754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 524
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec5a4a0ada0d1a0800000000000000
+      internalID: -6786733732978635054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 528
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d42831a229dddd0800000000000000
+      internalID: -2459649112060834441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 530
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952793c3022b6e290800000000000000
+      internalID: -7861400248009526695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 528
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5903add62914be0800000000000000
+      internalID: -1494752600800586258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 525
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8c73b69c65f7a40800000000000000
+      internalID: 5368104703936153843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_83
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 472
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04921b77ccd16b0800000000000000
+      internalID: -5323874370036612888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 476
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b74aec8274095cf0800000000000000
+      internalID: -263174213187516492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_85
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 470
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a7599cf908c980800000000000000
+      internalID: -8518547714662227628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 469
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59c4a50f2114b5e0800000000000000
+      internalID: -1894870649560315554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 470
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9e1c036890d4a20800000000000000
+      internalID: 3048102994747976168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_88
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 470
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af952e949e7ce70800000000000000
+      internalID: 9135526872683772459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 470
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab27ce7f2e8e50380800000000000000
+      internalID: -9005535818337717574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 476
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec889bd98962a7b10800000000000000
+      internalID: 1979937423105820878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_91
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 472
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db898ad5536013db0800000000000000
+      internalID: -4814059700407985987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 416
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc5cada354a426e0800000000000000
+      internalID: -1863183666521547577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 416
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fcf8c5de6127090800000000000000
+      internalID: -8038337176186925287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_94
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 418
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85516e143a3df4d0800000000000000
+      internalID: -3099256973038627441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 419
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059041fa35e61840800000000000000
+      internalID: 5194591261536851215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_96
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 418
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee48bdd705596460800000000000000
+      internalID: 7235407768620388076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_97
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 416
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538e016f483009f0800000000000000
+      internalID: -504341244683582636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 418
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90c36eef5b8b35d0800000000000000
+      internalID: -3081716275867303777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_99
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 419
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f2a413ddf0c260800000000000000
+      internalID: 7115966494271533598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_100
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 418
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456dd8d064400e0a0800000000000000
+      internalID: -6854473933936273836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_101
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 416
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1de9f1b96660c30800000000000000
+      internalID: 4325257308572406197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_102
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 416
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881961b96739dc10800000000000000
+      internalID: 2078753630095743105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_103
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 416
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c31be714c64ad90800000000000000
+      internalID: -7087420885020099444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_104
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 364
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76232c6d63c571400800000000000000
+      internalID: 294805691217097319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 312
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66d1d226b0d8070800000000000000
+      internalID: 8110151020255733485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_106
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 312
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e40f2c12ad9d10800000000000000
+      internalID: 2134040040375116173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_107
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 312
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddb1916acd457bb0800000000000000
+      internalID: -4938955884726207018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5da713013b781f0800000000000000
+      internalID: -1042667906581998155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_109
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 261
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd794440c435c70800000000000000
+      internalID: 8958587664984432031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_110
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 262
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd926da2b0e2bc0800000000000000
+      internalID: -3806092356471890032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 261
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65808dd780d34570800000000000000
+      internalID: 8449826607832532331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 259
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc30739ff2b0490800000000000000
+      internalID: -7779071183936041136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_113
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 258
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0fa2ee6569dcb20800000000000000
+      internalID: 3156344213963731104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_114
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 257
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a4d4dc092a1290800000000000000
+      internalID: -7918971859690543125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_115
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 258
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862768686f898bc90800000000000000
+      internalID: -7153799823491698072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_116
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 205
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c66ac7fe30aed80800000000000000
+      internalID: -8220753842688070652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_117
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 206
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228972f1ee0d11e0800000000000000
+      internalID: -2225606277252677081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be69be0b892a3b120800000000000000
+      internalID: 2428463400769787627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_119
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 206
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cc9bd755400f90800000000000000
+      internalID: -6989510378030053493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 204
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d86d806393733e0800000000000000
+      internalID: -2074126199141528182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_121
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 203
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11cfe0012f75ac0800000000000000
+      internalID: -3866355604289482263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_122
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 202
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc03ef6677d4db80800000000000000
+      internalID: -8370828903691645773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_123
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 203
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0fe63d4fa7446b0800000000000000
+      internalID: -5312986468452470540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_124
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 150
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305146dd90c36f630800000000000000
+      internalID: 3960418935385625859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_125
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 152
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50eb568cfbfb0c0800000000000000
+      internalID: -4557713430454336042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_126
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 152
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75883e78539a3c0800000000000000
+      internalID: -4347885107495282734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_127
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 151
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5af6eba0507e490800000000000000
+      internalID: -7717193892773255713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_128
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f0a3e8b26e689e0800000000000000
+      internalID: -1619353941248962679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_129
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 150
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59276b8e72ab0fde0800000000000000
+      internalID: -1301335611739311467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_130
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 148
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df74ba1fe0f8a6970800000000000000
+      internalID: 8748962520467458045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 149
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b2ab9f208393730800000000000000
+      internalID: 3979273331189361508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 96
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb30584b5429f50800000000000000
+      internalID: 6886643421830954204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_133
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ffdcdb47fe28fd0800000000000000
+      internalID: -2341045571599597723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_134
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 98
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bda5a833374974d0800000000000000
+      internalID: -3136397380167553612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_135
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 97
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c445e43ab46e336f0800000000000000
+      internalID: -705967504030280628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 96
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07adf591bf30a0c0800000000000000
+      internalID: -4566579990195493109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_137
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5869985dd745f4d70800000000000000
+      internalID: 9029528677331342981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_138
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 94
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0fabf80c6b3d940800000000000000
+      internalID: 5319796523016057067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_139
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b099ff5d2b5770e80800000000000000
+      internalID: -8212465984531883765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 42
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7709c81b049d60800000000000000
+      internalID: 7895948247767154467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_141
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 40
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b774a4ef7fb57c6e0800000000000000
+      internalID: -1817382803939375237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_142
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40578c13b7bd2b0800000000000000
+      internalID: -5558713861312019285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 39
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56af51d3990878d0800000000000000
+      internalID: -2848516233834289569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e455ff7e9fe9ef60800000000000000
+      internalID: 8064240071814239459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_145
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 42
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c15e64043b5ec60800000000000000
+      internalID: 7846875014411656297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_0: 4748355604865188001
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_1: 3209400886413540810
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_10: 3922364666449270251
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_100: -6854473933936273836
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_101: 4325257308572406197
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_102: 2078753630095743105
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_103: -7087420885020099444
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_104: 294805691217097319
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_105: 8110151020255733485
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_106: 2134040040375116173
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_107: -4938955884726207018
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_108: -1042667906581998155
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_109: 8958587664984432031
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_11: -7652353248836238891
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_110: -3806092356471890032
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_111: 8449826607832532331
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_112: -7779071183936041136
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_113: 3156344213963731104
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_114: -7918971859690543125
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_115: -7153799823491698072
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_116: -8220753842688070652
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_117: -2225606277252677081
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_118: 2428463400769787627
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_119: -6989510378030053493
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_12: 9054019568064198397
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_120: -2074126199141528182
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_121: -3866355604289482263
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_122: -8370828903691645773
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_123: -5312986468452470540
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_124: 3960418935385625859
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_125: -4557713430454336042
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_126: -4347885107495282734
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_127: -7717193892773255713
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_128: -1619353941248962679
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_129: -1301335611739311467
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_13: -1876689624738201806
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_130: 8748962520467458045
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_131: 3979273331189361508
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_132: 6886643421830954204
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_133: -2341045571599597723
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_134: -3136397380167553612
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_135: -705967504030280628
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_136: -4566579990195493109
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_137: 9029528677331342981
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_138: 5319796523016057067
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_139: -8212465984531883765
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_14: -4917809953552097119
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_140: 7895948247767154467
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_141: -1817382803939375237
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_142: -5558713861312019285
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_143: -2848516233834289569
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_144: 8064240071814239459
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_145: 7846875014411656297
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_15: -9130472343525682606
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_16: -2336879556091090412
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_17: -370125744513071
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_18: -5098139409987249797
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_19: 2092015346717281782
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_2: 7602613530098799339
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_20: 6239403601800839227
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_21: 8763829187007410955
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_22: 2769394036880561573
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_23: -6865389054852405155
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_24: -9102532704357327240
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_25: -3908973861124584362
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_26: -977547453049034401
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_27: 4205892617325471305
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_28: 1110372716254807030
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_29: 4628156168394180329
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_3: -5600453302412291620
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_30: -2572692758212997129
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_31: 4402957272434044631
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_32: 406847378967386463
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_33: -7421913224603156304
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_34: -7595056320641050958
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_35: 5130906870980858902
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_36: 7075646517355488464
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_37: -6681473567346133848
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_38: 3992099714302198244
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_39: -3454718100189295082
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_4: -4061744388679001799
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_40: -2189472089046656834
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_41: 4178786434374109891
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_42: -4793599488527329350
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_43: 18740853628963219
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_44: -427627751534162404
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_45: -1725884732790866748
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_46: 2942621380245321485
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_47: 6712714062147552062
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_48: 7777597375205199058
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_49: 7509698304030207892
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_5: 6775038883285441485
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_50: -9107807308108923854
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_51: -2962444365913521757
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_52: 4830053639360967511
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_53: -3766149368899800048
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_54: -7881347784705731468
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_55: -4968671420051299409
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_56: -3509892956337942814
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_57: 6268761507639573313
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_58: -6790061449019044508
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_59: -5867074578930552439
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_6: 4849841325959908891
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_60: -8921572403259368103
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_61: 1582936072248260891
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_62: 2414446006005963437
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_63: 6905832023577440739
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_64: 6241030722161668977
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_65: -7659751026005965905
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_66: -579081755870998641
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_67: -7509449157390347879
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_68: 5812414935504596481
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_69: -3488918607879132433
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_7: -8159705900003697502
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_70: 8831007308228272632
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_71: 3910966006144030727
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_72: 2587346253347114865
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_73: 1904857297322932070
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_74: 1732231052916423575
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_75: -5769900910310668324
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_76: 4309336249352431054
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_77: 7009360158198110754
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_78: -6786733732978635054
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_79: -2459649112060834441
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_8: 4057331481824832102
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_80: -7861400248009526695
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_81: -1494752600800586258
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_82: 5368104703936153843
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_83: -5323874370036612888
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_84: -263174213187516492
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_85: -8518547714662227628
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_86: -1894870649560315554
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_87: 3048102994747976168
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_88: 9135526872683772459
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_89: -9005535818337717574
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_9: -5394002152389871593
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_90: 1979937423105820878
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_91: -4814059700407985987
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_92: -1863183666521547577
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_93: -8038337176186925287
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_94: -3099256973038627441
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_95: 5194591261536851215
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_96: 7235407768620388076
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_97: -504341244683582636
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_98: -3081716275867303777
+      DS DSi - Club Penguin Elite Penguin Force Herberts Revenge - Klutzy_99: 7115966494271533598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
