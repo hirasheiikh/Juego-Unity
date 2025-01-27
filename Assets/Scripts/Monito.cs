@@ -18,6 +18,7 @@ public class Monito : MonoBehaviour
     public LayerMask groundMask;
     public GameObject bulletPrefab;
     public Transform spawnPosition;
+    public ParticleSystem damageParticle;
 
 
 
@@ -66,6 +67,11 @@ public class Monito : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
 
+    }
+
+    public void Damage()
+    {
+        damageParticle.Play();
     }
 
     public void OnMove(CallbackContext ctx)

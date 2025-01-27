@@ -131,9 +131,10 @@ GameObject:
   - component: {fileID: 361049302}
   - component: {fileID: 361049301}
   - component: {fileID: 361049304}
+  - component: {fileID: 361049305}
   m_Layer: 0
   m_Name: powerUpHielo
-  m_TagString: powerUpIce
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -281,6 +282,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &361049305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361049300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 048e3da0ded370744b20b71e241c9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collisionTag: 
+  playerTag: Player
+  speed: 1
 --- !u!1 &917747016
 GameObject:
   m_ObjectHideFlags: 0
@@ -7514,7 +7530,7 @@ GameObject:
   - component: {fileID: 1658803649}
   m_Layer: 0
   m_Name: Mono
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7695,6 +7711,7 @@ MonoBehaviour:
     m_Bits: 64
   bulletPrefab: {fileID: 0}
   spawnPosition: {fileID: 0}
+  damageParticle: {fileID: 0}
 --- !u!114 &1658803649
 MonoBehaviour:
   m_ObjectHideFlags: 0
