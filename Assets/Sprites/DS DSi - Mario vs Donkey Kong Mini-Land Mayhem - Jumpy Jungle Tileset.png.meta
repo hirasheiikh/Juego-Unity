@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: ec6ff54e56b1bd784a2e401791aa1c80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2925586458251018054
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_0
+  - first:
+      213: -7364285969511455768
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_1
+  - first:
+      213: 1734361542050295826
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_2
+  - first:
+      213: 7381469727907423560
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_3
+  - first:
+      213: 3745435114701660446
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_4
+  - first:
+      213: -3927084941317206673
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_5
+  - first:
+      213: -1159349089222229596
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_6
+  - first:
+      213: -3692626978265993578
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_7
+  - first:
+      213: -4373994895818686741
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_8
+  - first:
+      213: -3052797433292326475
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_9
+  - first:
+      213: -1723938584542471313
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_10
+  - first:
+      213: 928740340713919417
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_11
+  - first:
+      213: -1678902507971013778
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_12
+  - first:
+      213: -6558375340093060987
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_13
+  - first:
+      213: -308313198339031230
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_14
+  - first:
+      213: -5067524950363947652
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_15
+  - first:
+      213: 3143854659847515360
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_16
+  - first:
+      213: -315175425845212862
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_17
+  - first:
+      213: -5870995338531069368
+    second: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0414cdd9a3667d0800000000000000
+      internalID: -2925586458251018054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 58
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e360eaadecccc990800000000000000
+      internalID: -7364285969511455768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 55
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210b10a22a0b11810800000000000000
+      internalID: 1734361542050295826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a83cdb9f307660800000000000000
+      internalID: 7381469727907423560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 55
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11211584657af330800000000000000
+      internalID: 3745435114701660446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 58
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d800e6d013089c0800000000000000
+      internalID: -3927084941317206673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18c36552a29efe0800000000000000
+      internalID: -1159349089222229596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e6e60e35721ccc0800000000000000
+      internalID: -3692626978265993578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 63
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beefa5111d27c43c0800000000000000
+      internalID: -4373994895818686741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 55
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f269a8e842a5d0800000000000000
+      internalID: -3052797433292326475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b91cdbdf65318e0800000000000000
+      internalID: -1723938584542471313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 55
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b314d05b6c83ec00800000000000000
+      internalID: 928740340713919417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6310ef601753b8e0800000000000000
+      internalID: -1678902507971013778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588421e3068fbf4a0800000000000000
+      internalID: -6558375340093060987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 47
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fff6597c6a8bbf0800000000000000
+      internalID: -308313198339031230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 49
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db02318e88ca9b0800000000000000
+      internalID: -5067524950363947652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 55
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eceaa1082731ab20800000000000000
+      internalID: 3143854659847515360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249409cbe9540abf0800000000000000
+      internalID: -315175425845212862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a1e078d8068ea0800000000000000
+      internalID: -5870995338531069368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201553e647e8dde5ba8cd295bac2e2f9
+      internalID: -1251038670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a7d7f6156dbcbe20e9ba89ea5983a482
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Jumpy Jungle Tileset_19: -1251038670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
