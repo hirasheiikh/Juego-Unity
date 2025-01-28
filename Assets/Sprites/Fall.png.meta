@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 27532bab22b6297dbb26002c27683612
+guid: 4dc86d9f0df9fa64b9e8d165e9123c21
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3958464004145044089
-    second: PC Computer - Rayman The Dark Magicians Reign of Terror - Mr Cactus_0
+      213: -5966621866309598838
+    second: Fall_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC Computer - Rayman The Dark Magicians Reign of Terror - Mr Cactus_0
+      name: Fall_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1400
-        height: 1050
+        x: 21
+        y: 31
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 785a3c806f5b019c0800000000000000
-      internalID: -3958464004145044089
+      spriteID: a81c98d660d423da0800000000000000
+      internalID: -5966621866309598838
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      PC Computer - Rayman The Dark Magicians Reign of Terror - Mr Cactus_0: -3958464004145044089
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

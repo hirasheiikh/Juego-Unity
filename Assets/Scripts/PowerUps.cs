@@ -19,7 +19,7 @@ public class PowerUps : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
+        //rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

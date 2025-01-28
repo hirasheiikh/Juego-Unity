@@ -1,0 +1,2892 @@
+fileFormatVersion: 2
+guid: 5c1459cbc9f123f419508c0a969fbad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8780619133107487772
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_0
+  - first:
+      213: -177451003028452582
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_1
+  - first:
+      213: -1156371328826651916
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_2
+  - first:
+      213: -8885173012051607675
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_3
+  - first:
+      213: 9121842424367885070
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_4
+  - first:
+      213: -7606721064853149178
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_5
+  - first:
+      213: -5781155808947319142
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_6
+  - first:
+      213: -6131461034875132876
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_7
+  - first:
+      213: -2769910625815340182
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_8
+  - first:
+      213: -357313760718752956
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_9
+  - first:
+      213: 12906057668550686
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_10
+  - first:
+      213: -1844459006131975111
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_11
+  - first:
+      213: 3063754428409240781
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_12
+  - first:
+      213: 5428654206517749309
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_13
+  - first:
+      213: 9101324422225006389
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_14
+  - first:
+      213: -5796830194281872526
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_15
+  - first:
+      213: -3518067494168395727
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_16
+  - first:
+      213: -7766342020544007750
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_17
+  - first:
+      213: -6420433342263879953
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_18
+  - first:
+      213: -1343358086757799106
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_19
+  - first:
+      213: -392356400574850529
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_20
+  - first:
+      213: -6656388281075023333
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_21
+  - first:
+      213: 5213603338468197075
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_22
+  - first:
+      213: -1677615325782347627
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_23
+  - first:
+      213: 5018351893240388118
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_24
+  - first:
+      213: -5304530152678857777
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_25
+  - first:
+      213: 6758485362180592708
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_26
+  - first:
+      213: -531535134716915577
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_27
+  - first:
+      213: -6027619194463372291
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_28
+  - first:
+      213: -8148111601915939113
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_29
+  - first:
+      213: 2879673908269079563
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_30
+  - first:
+      213: -5831882080497114693
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_31
+  - first:
+      213: 3288776708650029538
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_32
+  - first:
+      213: -3132584040579875973
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_33
+  - first:
+      213: -3833300418407321730
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_34
+  - first:
+      213: 4997160095555700798
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_35
+  - first:
+      213: -7481073057369093610
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_36
+  - first:
+      213: 3014152653837602477
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_37
+  - first:
+      213: -3270424654008686625
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_38
+  - first:
+      213: -1470393679435859233
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_39
+  - first:
+      213: -7595384875504202862
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_40
+  - first:
+      213: -3644244390368402156
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_41
+  - first:
+      213: -4328294915159453447
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_42
+  - first:
+      213: -2377500532939234423
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_43
+  - first:
+      213: -1862377995964558609
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_44
+  - first:
+      213: -6366752320569402092
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_45
+  - first:
+      213: -3138554555549725608
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_46
+  - first:
+      213: -359862476784759739
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_47
+  - first:
+      213: 1362800697238055168
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_48
+  - first:
+      213: -7607528411037405589
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_49
+  - first:
+      213: -6745087077893020916
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_50
+  - first:
+      213: -5462090491827043533
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_51
+  - first:
+      213: 1391586472662238554
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_52
+  - first:
+      213: -5182618539685527725
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_53
+  - first:
+      213: 1830753319185042966
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_54
+  - first:
+      213: 6646616083270371110
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_55
+  - first:
+      213: -7452423061552730524
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_56
+  - first:
+      213: 3546647843722939762
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_57
+  - first:
+      213: -5020633034337462322
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_58
+  - first:
+      213: 6673626864789884596
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_59
+  - first:
+      213: -8350128115008866731
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_60
+  - first:
+      213: 4865427173626393658
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_61
+  - first:
+      213: -3134133172022969418
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_62
+  - first:
+      213: 5731522103072857265
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_63
+  - first:
+      213: -5317498158723433360
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_64
+  - first:
+      213: 5289928744552932715
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_65
+  - first:
+      213: -375548879800376543
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_66
+  - first:
+      213: 1842765052164895197
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_67
+  - first:
+      213: -1036551942291188024
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_68
+  - first:
+      213: -7668758459723064015
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_69
+  - first:
+      213: -1327521464762392089
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_70
+  - first:
+      213: 3835966152898756314
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_71
+  - first:
+      213: -3007834771483425228
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_72
+  - first:
+      213: 8418282363688584807
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_73
+  - first:
+      213: -4562882614814502788
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_74
+  - first:
+      213: 3423580324497996311
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_75
+  - first:
+      213: 2134489172045842155
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_76
+  - first:
+      213: 1101398206264183872
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_77
+  - first:
+      213: 4672358070277957501
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_78
+  - first:
+      213: -2359922589024215494
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_79
+  - first:
+      213: -122372845700292437
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_80
+  - first:
+      213: -8128036777043357710
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_81
+  - first:
+      213: 3170181881275008775
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_82
+  - first:
+      213: 1689756271056915854
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_83
+  - first:
+      213: -1141738930189757268
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_84
+  - first:
+      213: 6668144336081629535
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_85
+  - first:
+      213: 4450996764978488686
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_86
+  - first:
+      213: 1115712889123662021
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_87
+  - first:
+      213: 836564141244781849
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_88
+  - first:
+      213: -1206785362245880395
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_89
+  - first:
+      213: 8522913623108147198
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_90
+  - first:
+      213: 5205897015757374970
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_91
+  - first:
+      213: 8728384325915232927
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_92
+  - first:
+      213: -68793322528542530
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_93
+  - first:
+      213: 1650797380499584683
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_94
+  - first:
+      213: 2349484963182337774
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_95
+  - first:
+      213: -4845305954272553614
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_96
+  - first:
+      213: 6869010574732096532
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_97
+  - first:
+      213: 1151245901965089050
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_98
+  - first:
+      213: 3062304858590505529
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_99
+  - first:
+      213: 6221804256176589814
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_100
+  - first:
+      213: 1439781209562784779
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_101
+  - first:
+      213: -9136590779479499194
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_102
+  - first:
+      213: 395512729586256603
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_103
+  - first:
+      213: -5262532036794785483
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_104
+  - first:
+      213: 7675602495118771679
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_105
+  - first:
+      213: 4796278561389142219
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_106
+  - first:
+      213: 2064513470743291220
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_107
+  - first:
+      213: -8966723386481392271
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_108
+  - first:
+      213: 6297812171963340725
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_109
+  - first:
+      213: 9220719465431010007
+    second: enemigoDesierto-fotor-bg-remover-20250128163115_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb312f8b69f42680800000000000000
+      internalID: -8780619133107487772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 330
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc37fb041998df0800000000000000
+      internalID: -177451003028452582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 330
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa47d4376eb3ffe0800000000000000
+      internalID: -1156371328826651916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 344
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb6c0a83681b480800000000000000
+      internalID: -8885173012051607675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 330
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2989fa5b479e70800000000000000
+      internalID: 9121842424367885070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 321
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a62ff5e7f7f6690800000000000000
+      internalID: -7606721064853149178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 344
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e4280fb6535cfa0800000000000000
+      internalID: -5781155808947319142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 330
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4346e16bcaca8eaa0800000000000000
+      internalID: -6131461034875132876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 342
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b52b026fc4f89d0800000000000000
+      internalID: -2769910625815340182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 329
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443fffa17019a0bf0800000000000000
+      internalID: -357313760718752956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 344
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e8c6bdf9dd2000800000000000000
+      internalID: 12906057668550686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 330
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ccbb86e4a2766e0800000000000000
+      internalID: -1844459006131975111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 321
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccdc509b64a48a20800000000000000
+      internalID: 3063754428409240781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 321
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36abe31d34765b40800000000000000
+      internalID: 5428654206517749309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 330
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f0f4457566e4e70800000000000000
+      internalID: 9101324422225006389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 320
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2730296b6a58d8fa0800000000000000
+      internalID: -5796830194281872526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 341
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1308e3ae0405d2fc0800000000000000
+      internalID: -3518067494168395727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 319
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1f8458419683490800000000000000
+      internalID: -7766342020544007750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 341
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6994264e906e6a0800000000000000
+      internalID: -6420433342263879953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 318
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b27a000fe6b5de0800000000000000
+      internalID: -1343358086757799106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9266bee11e8af0800000000000000
+      internalID: -392356400574850529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 322
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12437b1022cf93a0800000000000000
+      internalID: -6656388281075023333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 327
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2003d0d907a5840800000000000000
+      internalID: 5213603338468197075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 327
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590fdf4efb9e7b8e0800000000000000
+      internalID: -1677615325782347627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a90826574c4a540800000000000000
+      internalID: 5018351893240388118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 269
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc36a354ee58266b0800000000000000
+      internalID: -5304530152678857777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 268
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444937001a6facd50800000000000000
+      internalID: 6758485362180592708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 283
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7801f857c9b9f98f0800000000000000
+      internalID: -531535134716915577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 261
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3fa04748995ca0800000000000000
+      internalID: -6027619194463372291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 262
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6bf892ba71cee80800000000000000
+      internalID: -8148111601915939113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 262
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cd6539928a6f720800000000000000
+      internalID: 2879673908269079563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 269
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e00c752ef01fa0800000000000000
+      internalID: -5831882080497114693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 262
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1d9a8edf414ad20800000000000000
+      internalID: 3288776708650029538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 270
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bbd288963d684d0800000000000000
+      internalID: -3132584040579875973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_34
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 262
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fa97344916dcac0800000000000000
+      internalID: -3833300418407321730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 260
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38ca5d71aa795540800000000000000
+      internalID: 4997160095555700798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 261
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a05c4d0b3ed2890800000000000000
+      internalID: -7481073057369093610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 262
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8ac67edb64d920800000000000000
+      internalID: 3014152653837602477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e129ca1e1d92d0800000000000000
+      internalID: -3270424654008686625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 222
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdafe313dbc189be0800000000000000
+      internalID: -1470393679435859233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 199
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b8233a2b5c79690800000000000000
+      internalID: -7595384875504202862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 199
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a165f80b0d6dc0800000000000000
+      internalID: -3644244390368402156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 209
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f09acaf4becee3c0800000000000000
+      internalID: -4328294915159453447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 198
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ead0acdb610fd0800000000000000
+      internalID: -2377500532939234423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2570974118726e0800000000000000
+      internalID: -1862377995964558609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 206
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d11973f70c4a7a0800000000000000
+      internalID: -6366752320569402092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 220
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c4640b24d9174d0800000000000000
+      internalID: -3138554555549725608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 197
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c8047ebf2810bf0800000000000000
+      internalID: -359862476784759739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_48
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 199
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00967828304a9e210800000000000000
+      internalID: 1362800697238055168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_49
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 197
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e6c617731ac6690800000000000000
+      internalID: -7607528411037405589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 207
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03eb172a03a462a0800000000000000
+      internalID: -6745087077893020916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_51
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 198
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334c9713a1c234b0800000000000000
+      internalID: -5462090491827043533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5585412688ef4310800000000000000
+      internalID: 1391586472662238554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 135
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb0b795e3a318b0800000000000000
+      internalID: -5182618539685527725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 160
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e446da174286910800000000000000
+      internalID: 1830753319185042966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6278ab9cc168d3c50800000000000000
+      internalID: 6646616083270371110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e683cc5bca39890800000000000000
+      internalID: -7452423061552730524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 156
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc2844c69383130800000000000000
+      internalID: 3546647843722939762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 134
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec759b01bd0235ab0800000000000000
+      internalID: -5020633034337462322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_59
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 156
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be0e4f664c7d9c50800000000000000
+      internalID: 6673626864789884596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 142
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f4e368b26e1c80800000000000000
+      internalID: -8350128115008866731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 147
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b88c7c38758340800000000000000
+      internalID: 4865427173626393658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 144
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7dc24c725184d0800000000000000
+      internalID: -3134133172022969418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 145
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc15ff5cf47a8f40800000000000000
+      internalID: 5731522103072857265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_64
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 156
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cfe7319937436b0800000000000000
+      internalID: -5317498158723433360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 161
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65a43a7a2a996940800000000000000
+      internalID: 5289928744552932715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 143
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e3b79848c9caf0800000000000000
+      internalID: -375548879800376543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_67
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 135
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1fac23d01d29910800000000000000
+      internalID: 1842765052164895197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_68
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61e78108d6d91f0800000000000000
+      internalID: -1036551942291188024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_69
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 135
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d5febcfc8139590800000000000000
+      internalID: -7668758459723064015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_70
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 145
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a125e242b39de0800000000000000
+      internalID: -1327521464762392089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_71
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 145
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb3f964e61c3530800000000000000
+      internalID: 3835966152898756314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43689a626360246d0800000000000000
+      internalID: -3007834771483425228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 134
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7660892353fb3d470800000000000000
+      internalID: 8418282363688584807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 134
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c701d20ef626da0c0800000000000000
+      internalID: -4562882614814502788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a38bd8a20038f20800000000000000
+      internalID: 3423580324497996311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_76
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6c5bcc79a3f9d10800000000000000
+      internalID: 2134489172045842155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 99
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c01a845d3f84f00800000000000000
+      internalID: 1101398206264183872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 97
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77e852e8ec87d040800000000000000
+      internalID: 4672358070277957501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e9acf98eedf3fd0800000000000000
+      internalID: -2359922589024215494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba061e19b8e3d4ef0800000000000000
+      internalID: -122372845700292437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_81
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 97
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff050f8d99633f80800000000000000
+      internalID: -8128036777043357710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_82
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 97
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707c6caef9fbefb20800000000000000
+      internalID: 3170181881275008775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_83
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 99
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d06553068337710800000000000000
+      internalID: 1689756271056915854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 99
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41ecffd7ab720f0800000000000000
+      internalID: -1141738930189757268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_85
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 98
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51bd2fb1f10a8c50800000000000000
+      internalID: 6668144336081629535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_86
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 84
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a4f0b9fd15cd30800000000000000
+      internalID: 4450996764978488686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_87
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 75
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c86a8b16fecb7f00800000000000000
+      internalID: 1115712889123662021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_88
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 74
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91599b677a21c9b00800000000000000
+      internalID: 836564141244781849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5713b5b13a04fe0800000000000000
+      internalID: -1206785362245880395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 80
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7d2bca8c8774670800000000000000
+      internalID: 8522913623108147198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_91
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50c79f0cf0f3840800000000000000
+      internalID: 5205897015757374970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_92
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 74
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ac349ac43712970800000000000000
+      internalID: 8728384325915232927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_93
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 83
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb074cf66d89b0ff0800000000000000
+      internalID: -68793322528542530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 75
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b2d4a87fc8e610800000000000000
+      internalID: 1650797380499584683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_95
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 84
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeda9b302c0b9020800000000000000
+      internalID: 2349484963182337774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275df77f7e302ccb0800000000000000
+      internalID: -4845305954272553614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414fe4169b0a35f50800000000000000
+      internalID: 6869010574732096532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_98
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 73
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d0cb5c0c0aff00800000000000000
+      internalID: 1151245901965089050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_99
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 41
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6d3a4b0e7f7a20800000000000000
+      internalID: 3062304858590505529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb4b67a10a485650800000000000000
+      internalID: 6221804256176589814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04a54eb1612bf310800000000000000
+      internalID: 1439781209562784779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 42
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed303081f443180800000000000000
+      internalID: -9136590779479499194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda42276bb42d7500800000000000000
+      internalID: 395512729586256603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_104
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ebbf9efab7f6b0800000000000000
+      internalID: -5262532036794785483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd508ae5dc7358a60800000000000000
+      internalID: 7675602495118771679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_106
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0eb6790fdcf8240800000000000000
+      internalID: 4796278561389142219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455a9a93010a6ac10800000000000000
+      internalID: 2064513470743291220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 34
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175c695769ccf8380800000000000000
+      internalID: -8966723386481392271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_109
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 38
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7910c9dc2566750800000000000000
+      internalID: 6297812171963340725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoDesierto-fotor-bg-remover-20250128163115_110
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 35
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da8b86108396ff70800000000000000
+      internalID: 9220719465431010007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

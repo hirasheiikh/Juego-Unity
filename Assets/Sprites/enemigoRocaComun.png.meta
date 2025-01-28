@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -121,177 +121,529 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_0
+      name: enemigoRocaComun_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 255
-        width: 32
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e54e61f12f9e5f490800000000000000
-      internalID: -7713001560689154978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_1
-      rect:
-        serializedVersion: 2
-        x: 31
         y: 0
-        width: 33
-        height: 301
+        width: 66
+        height: 288
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cef0990b2dd907b50800000000000000
-      internalID: 6588939783074549740
+      spriteID: 65952b0ec6cdc7f4db4d1826855aa3fd
+      internalID: -1592005357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_2
+      name: enemigoRocaComun_1
       rect:
         serializedVersion: 2
-        x: 68
-        y: 159
-        width: 38
-        height: 142
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b657f40ac1386c580800000000000000
-      internalID: -8807207862304541333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_3
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 287
-        width: 33
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4801f35c033d6260800000000000000
-      internalID: 7092381116219328587
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_4
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 255
+        x: 32
+        y: 256
         width: 32
-        height: 33
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4038da7d5acb66d10800000000000000
-      internalID: 2118588095198495492
+      spriteID: 6d07f4e0853a39c4983851f052b4b47f
+      internalID: 457517374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_5
+      name: enemigoRocaComun_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 191
-        width: 33
-        height: 110
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 636dfe80b1e903560800000000000000
-      internalID: 7291501635664074294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_6
-      rect:
-        serializedVersion: 2
-        x: 188
-        y: 255
-        width: 33
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cdaf1cc9503a11690800000000000000
-      internalID: -7633140648916157732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_7
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 223
+        x: 64
+        y: 256
         width: 32
-        height: 33
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ae75cbe893d69a1f0800000000000000
-      internalID: -1033174545529546774
+      spriteID: c116cf4604b28a041ab7223c587a05a5
+      internalID: 1379579132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb6a3ab759902c4cb5ea3b0dd277d8f
+      internalID: -912298625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1267b203f32446a66c217e6a5758a
+      internalID: 1922411952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae4e5699e43564c8dd763b94b8fb54
+      internalID: 66762872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03130ca44a022894f93078e00c8d0254
+      internalID: 1446008287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6564b5bb63e98548b2e3d6582d0bfad
+      internalID: -957349793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55244760c97849418e6041f104b4cc8
+      internalID: -772383954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384da539a8ccb049811657c2f2b5de8
+      internalID: 1769352663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc86fc0a4dfb28438ff25b437f28a1f
+      internalID: -942792134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0366e79fddd99c446b6ef5d553b2127a
+      internalID: -922259130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e925721cb7f54f986a5e49da85b9b
+      internalID: -1853905337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4c83b27e84b9419ad02557e68f65c
+      internalID: 1365324949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace08f477a1e3e4085adf2755be6372
+      internalID: -100303899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970e1dbda7428047bf19d3b4eb8e4e3
+      internalID: -1184965390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a95324aa1adf1439ebb2c7e2fe9f3e
+      internalID: -698279866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6d6f9c5bde7c043b8266fad7d8468c
+      internalID: -408536225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c54adcb3812f8458d28c983e45947d
+      internalID: 1293007178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbdbd7f8a637c1468b4ca4e46caebb1
+      internalID: -2140576900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8611ba2b7b72c7a41b1c6acdc15dc49b
+      internalID: 1474993350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c62bba00972f24b881389eb56ac2a4
+      internalID: -1816474971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ca64935dd38e42abbf12f9594b7ff
+      internalID: -1493733388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigoRocaComun_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381c31ac1f4d5c4ea51289b12a7da63
+      internalID: 32419784
       vertices: []
       indices: 
       edges: []
@@ -300,7 +652,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4ce213dc72f2d0545a663aec093c4606
     internalID: 0
     vertices: []
     indices: 
@@ -310,14 +662,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_0: -7713001560689154978
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_1: 6588939783074549740
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_2: -8807207862304541333
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_3: 7092381116219328587
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_4: 2118588095198495492
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_5: 7291501635664074294
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_6: -7633140648916157732
-      DS DSi - Mario vs Donkey Kong Mini-Land Mayhem - Thwomp_7: -1033174545529546774
+      enemigoRocaComun_0: -1592005357
+      enemigoRocaComun_1: 457517374
+      enemigoRocaComun_10: -942792134
+      enemigoRocaComun_11: -922259130
+      enemigoRocaComun_12: -1853905337
+      enemigoRocaComun_13: 1365324949
+      enemigoRocaComun_14: -100303899
+      enemigoRocaComun_15: -1184965390
+      enemigoRocaComun_16: -698279866
+      enemigoRocaComun_17: -408536225
+      enemigoRocaComun_18: 1293007178
+      enemigoRocaComun_19: -2140576900
+      enemigoRocaComun_2: 1379579132
+      enemigoRocaComun_20: 1474993350
+      enemigoRocaComun_21: -1816474971
+      enemigoRocaComun_22: -1493733388
+      enemigoRocaComun_23: 32419784
+      enemigoRocaComun_3: -912298625
+      enemigoRocaComun_4: 1922411952
+      enemigoRocaComun_5: 66762872
+      enemigoRocaComun_6: 1446008287
+      enemigoRocaComun_7: -957349793
+      enemigoRocaComun_8: -772383954
+      enemigoRocaComun_9: 1769352663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
