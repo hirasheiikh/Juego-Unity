@@ -35,7 +35,7 @@ public class Monito : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        //animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
         //_audioSource = GetComponent<AudioSource>();
 
         GameManager.instance.monito = this;
@@ -54,9 +54,9 @@ public class Monito : MonoBehaviour
         grounded = Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, groundMask);
         grounded &= rb.linearVelocity.y <= 0f;
 
-        //animator.SetBool("Grounded", grounded);
-        //animator.SetFloat("Hor", rb.linearVelocity.x);
-        //animator.SetFloat("Ver", rb.linearVelocity.y);
+        animator.SetBool("Grounded", grounded);
+        animator.SetFloat("Hor", rb.linearVelocity.x);
+        animator.SetFloat("Ver", rb.linearVelocity.y);
 
         if (direction > 0)
         {
