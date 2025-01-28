@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class PowerUps : MonoBehaviour
 {
-    public string collisionTag;
     public string playerTag;
     public float speed;
 
@@ -14,6 +13,10 @@ public class PowerUps : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
+    void Start()
+    {
+
+    }
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
@@ -23,9 +26,10 @@ public class PowerUps : MonoBehaviour
     {
         if (collision.gameObject.tag == playerTag)
         {
-            GameManager.instance.monito.Damage();
+            //GameManager.instance.monito.Damage();
             Destroy(gameObject);
         }
+
 
     }
 }

@@ -24,7 +24,7 @@ public class Monito : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
-    private AudioSource _audioSource;
+    //private AudioSource _audioSource;
 
     private float direction = 0f;
     private float directionY = 0;
