@@ -2,12 +2,11 @@ using UnityEngine;
 
 public class PowerUps : MonoBehaviour
 {
-    public string collisionTag;
     public string playerTag;
     public float speed;
 
     private Rigidbody2D rb;
-    private float direction = 1;
+    private float direction = 1f;
     
     private void Awake()
     {
@@ -25,14 +24,9 @@ public class PowerUps : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == collisionTag)
+        if (collision.gameObject.tag == playerTag)
         {
-            Debug.Log(collision.gameObject.name);
-            direction *= -1;
-        }
-        else if (collision.gameObject.tag == playerTag)
-        {
-            GameManager.instance.monito.Damage();
+            //GameManager.instance.monito.Damage();
             Destroy(gameObject);
         }
 
