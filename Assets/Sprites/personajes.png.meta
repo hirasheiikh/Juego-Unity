@@ -139,7 +139,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -187,6 +187,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -984,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      personajes_0: -7049103514410413297
+      personajes_1: 546624286021485963
+      personajes_10: -5215995643184021239
+      personajes_11: 2615503336063654503
+      personajes_12: -7974172980471477819
+      personajes_13: 210158189145251922
+      personajes_14: -8990989454564422459
+      personajes_15: 8079856693515468748
+      personajes_16: -8820611735057872096
+      personajes_17: 2764354254071858868
+      personajes_18: -3157774789737742378
+      personajes_19: 3555269399485174924
+      personajes_2: 921939107963088460
+      personajes_20: -4986457712948966068
+      personajes_21: -4525348155893145611
+      personajes_22: -259766494236850342
+      personajes_23: 1192030203327117935
+      personajes_24: 1365448789777154073
+      personajes_25: 4198066326613850162
+      personajes_26: 1364267662637829779
+      personajes_27: 8618464092677942025
+      personajes_28: -6207630951590502933
+      personajes_29: -2807883358696216636
+      personajes_3: -1247894018666553155
+      personajes_30: -2491046693880665716
+      personajes_31: 5506848263174021956
+      personajes_32: 6033056114807278358
+      personajes_33: 7043008718251831072
+      personajes_34: -2820575323224343157
+      personajes_4: -3447738649475369362
+      personajes_5: -2379475321107421134
+      personajes_6: -503901180175678524
+      personajes_7: 8946705397102689618
+      personajes_8: -5505311032467051082
+      personajes_9: -8979315964800192852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

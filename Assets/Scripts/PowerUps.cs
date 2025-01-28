@@ -7,13 +7,17 @@ public class PowerUps : MonoBehaviour
     public float speed;
 
     private Rigidbody2D rb;
-    private float direction = 1f;
+    private float direction = 1;
     
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
+    void Start()
+    {
+
+    }
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
@@ -21,11 +25,17 @@ public class PowerUps : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == playerTag)
+        if (collision.gameObject.tag == collisionTag)
+        {
+            Debug.Log(collision.gameObject.name);
+            direction *= -1;
+        }
+        else if (collision.gameObject.tag == playerTag)
         {
             GameManager.instance.monito.Damage();
             Destroy(gameObject);
         }
+
 
     }
 }
