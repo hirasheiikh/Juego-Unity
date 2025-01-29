@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DesertNight_2_0: -2535698160922360202
+      DesertNight_2_1: -9105636363173577832
+      DesertNight_2_2: 2282780262581445826
+      DesertNight_2_3: 3634735885791355383
+      DesertNight_2_4: 5719905906015232394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AcidSplat_0: -1937807326998932550
+      AcidSplat_1: -4854881654088601127
+      AcidSplat_2: 1063237056770142624
+      AcidSplat_3: 5511812139553003973
+      AcidSplat_4: -8831887280285884464
+      AcidSplat_5: -2352627107771326926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beetle_0: 2631103260818236658
+      Beetle_1: 7801186258100458736
+      Beetle_2: -3665364186405681620
+      Beetle_3: -7567055186130341114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
