@@ -757,7 +757,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -1.90094, y: 4.411212}
+  m_Offset: {x: 31.501572, y: 4.411212}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -767,7 +767,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 471.3169, y: 20.107386}
+  m_Size: {x: 538.12146, y: 20.107386}
   m_EdgeRadius: 0
 --- !u!4 &653585160
 Transform:
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 1206058599}
   - component: {fileID: 1206058598}
   m_Layer: 6
-  m_Name: GroudTileSet
+  m_Name: GroundTileSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -965,7 +965,7 @@ Transform:
   m_GameObject: {fileID: 1206058596}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -63.053284, y: 8.0228405, z: -0.3136161}
+  m_LocalPosition: {x: -63.53, y: 8.09, z: -0.3136161}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9602,7 +9602,7 @@ GameObject:
   - component: {fileID: 1556253725}
   - component: {fileID: 1556253724}
   - component: {fileID: 1556253723}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnemigoCiudad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10196,7 +10196,7 @@ TilemapCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3c10edab14c70c74ba4b53a13c4ea8d4, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -10586,6 +10586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mono
       objectReference: {fileID: 0}
+    - target: {fileID: 2011183318668699032, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: m_GravityScale
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.77
@@ -10625,6 +10629,14 @@ PrefabInstance:
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: speed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: jumpSpeed
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: groundCheckDistance

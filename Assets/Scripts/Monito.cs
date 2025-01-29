@@ -95,8 +95,7 @@ public class Monito : MonoBehaviour
         }
 
         Debug.DrawRay(transform.position, Vector2.down * groundCheckDistance, Color.blue, 1);
-        grounded = Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, groundMask);
-        //grounded &= rb.linearVelocity.y <= 0f;
+        grounded = (Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, groundMask) && rb.linearVelocity.y <= 0.2f);
 
         animator.SetBool("Grounded", grounded);
         animator.SetFloat("Hor", rb.linearVelocity.x);

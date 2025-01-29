@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 42628600}
   - component: {fileID: 42628599}
   - component: {fileID: 42628598}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Jungle TileSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2163,7 +2163,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.6199982, y: 2.0924227, z: -9.963902}
+  m_LocalPosition: {x: -3.2099984, y: 2.092423, z: -9.963902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2402,7 +2402,7 @@ Transform:
   m_GameObject: {fileID: 756236760}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7484812, y: -1.9431072, z: 0.013672549}
+  m_LocalPosition: {x: 1.7425811, y: -1.9431072, z: 0.013672549}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2603,7 +2603,7 @@ Transform:
   m_GameObject: {fileID: 1483353052}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7484812, y: -1.9431072, z: 0.013672549}
+  m_LocalPosition: {x: 1.7366812, y: -1.9431072, z: 0.013672549}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2704,7 +2704,7 @@ Transform:
   m_GameObject: {fileID: 1674763221}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7484812, y: -1.9431072, z: 0.013672549}
+  m_LocalPosition: {x: 1.7602811, y: -1.9431072, z: 0.013672549}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2869,7 +2869,7 @@ Transform:
   m_GameObject: {fileID: 1808447330}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.62, y: -3.18, z: -9.963902}
+  m_LocalPosition: {x: -3.21, y: -3.87, z: -9.963902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3034,7 +3034,7 @@ Transform:
   m_GameObject: {fileID: 1982859861}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.7484812, y: -1.9431072, z: 0.013672549}
+  m_LocalPosition: {x: 1.7543812, y: -1.9431072, z: 0.013672549}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3120,13 +3120,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mono
       objectReference: {fileID: 0}
+    - target: {fileID: 2011183318668699032, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: m_GravityScale
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.62
+      value: -3.21
       objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.18
+      value: -3.87
       objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3159,6 +3163,14 @@ PrefabInstance:
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: speed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: jumpSpeed
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: groundCheckDistance

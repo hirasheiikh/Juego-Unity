@@ -7730,7 +7730,7 @@ TilemapCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3c10edab14c70c74ba4b53a13c4ea8d4, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8548,7 +8548,7 @@ PrefabInstance:
     - target: {fileID: 2011183318668699032, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_Material
       value: 
-      objectReference: {fileID: 6200000, guid: 3c10edab14c70c74ba4b53a13c4ea8d4, type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 2011183318668699032, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_GravityScale
       value: 4
@@ -8613,6 +8613,10 @@ PrefabInstance:
       propertyPath: brazo_izq
       value: 
       objectReference: {fileID: 1043149935}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: jumpSpeed
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: pierna_der
       value: 
@@ -8832,7 +8836,7 @@ TilemapCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 3c10edab14c70c74ba4b53a13c4ea8d4, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0

@@ -146,7 +146,7 @@ Transform:
   m_GameObject: {fileID: 418868306}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.16799, y: -3.14991, z: 0.00273451}
+  m_LocalPosition: {x: 2.1679919, y: -3.14991, z: 0.00273451}
   m_LocalScale: {x: 0.010000001, y: 0.01, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -398,7 +398,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.6200027, y: 2.0924218, z: -9.963902}
+  m_LocalPosition: {x: -2.6400013, y: 2.0924218, z: -9.963902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -988,7 +988,7 @@ Transform:
   m_GameObject: {fileID: 1808447330}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.62, y: -3.18, z: -9.963902}
+  m_LocalPosition: {x: -2.64, y: -3.36, z: -9.963902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1037,13 +1037,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mono
       objectReference: {fileID: 0}
+    - target: {fileID: 2011183318668699032, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: m_GravityScale
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.62
+      value: -2.64
       objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.18
+      value: -3.36
       objectReference: {fileID: 0}
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1076,6 +1080,14 @@ PrefabInstance:
     - target: {fileID: 6968092030461829064, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: speed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
+      propertyPath: jumpSpeed
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 8888389571286154028, guid: 21d5455b31b1d1fa7855783d9a691022, type: 3}
       propertyPath: groundCheckDistance
