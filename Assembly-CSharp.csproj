@@ -65,11 +65,14 @@
     <Analyzer Include="/home/maziu/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/ParallaxCamera.cs" />
     <Compile Include="Assets/Scripts/Monito.cs" />
     <Compile Include="Assets/Scripts/PenguinSpin.cs" />
+    <Compile Include="Assets/Scripts/ParallaxBackground.cs" />
     <Compile Include="Assets/Scripts/PenguinWalk.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/PowerUps.cs" />
+    <Compile Include="Assets/Scripts/ParallaxLayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
