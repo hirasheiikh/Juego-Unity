@@ -75,6 +75,11 @@
     <Compile Include="Assets/Scripts/ParallaxLayer.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Sprites/Parallax_Backgrounds_SnowyMountains/craftpix-net-516149-city-man-pixel-art-character-sprite-sheets/Font.txt" />
+    <None Include="Assets/Sprites/free-city-backgrounds-pixel-art/License.txt" />
+    <None Include="Assets/Sprites/Parallax_Backgrounds_SnowyMountains/craftpix-net-516149-city-man-pixel-art-character-sprite-sheets/Licens.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>/home/maziu/Unity/Hub/Editor/6000.0.35f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
       <Private>False</Private>
