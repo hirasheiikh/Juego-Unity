@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ParallaxBackgroundEgypt_0: -6143148980563414429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
