@@ -37,6 +37,18 @@ public class PowerUps : MonoBehaviour
             {
                 if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_fuego();
             }
+            /*else if (gameObject.name == "powerUpFuego")
+            {
+                if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_fuego();
+            }
+            else if (gameObject.name == "powerUpFuego")
+            {
+                if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_fuego();
+            }
+            else if (gameObject.name == "powerUpFuego")
+            {
+                if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_fuego();
+            }*/
         }
 
 
