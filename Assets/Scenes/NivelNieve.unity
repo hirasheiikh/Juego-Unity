@@ -9551,50 +9551,6 @@ PrefabInstance:
       propertyPath: menu
       value: 
       objectReference: {fileID: 2110818285}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: bolaFuego
-      value: 
-      objectReference: {fileID: 3314939199104804236, guid: f4a163e0c6900a3438e8891af9f3a886, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: bolaHielo
-      value: 
-      objectReference: {fileID: 2480560924097634914, guid: 5ba717aee38c1fd4081e5ad5120f3b2f, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: bolaEstrella
-      value: 
-      objectReference: {fileID: 8205609085636309192, guid: e67ddc31bc51ef54fb3a82a9977ce4fe, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: speedEstrella
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1668859796}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnShoot
-      objectReference: {fileID: 0}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: Monito, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 1784134253528127122, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: m_ActionEvents.Array.data[14].m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     - target: {fileID: 1981072709722844963, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
       propertyPath: m_Name
       value: Mono
@@ -10872,12 +10828,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1918327876}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 80.81, y: 9.0006, z: 0}
   m_LocalScale: {x: 6.762674, y: 6.2262654, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1921546905}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1918327880
 BoxCollider2D:
@@ -10925,6 +10881,38 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!1 &1921546904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1921546905}
+  m_Layer: 0
+  m_Name: Roca
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1921546905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1921546904}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 165, y: 7, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1918327879}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1925862948
 GameObject:
   m_ObjectHideFlags: 0
@@ -11389,7 +11377,7 @@ SceneRoots:
   - {fileID: 361049303}
   - {fileID: 917747018}
   - {fileID: 596458804}
-  - {fileID: 1918327879}
+  - {fileID: 1921546905}
   - {fileID: 1789883240}
   - {fileID: 500258860}
   - {fileID: 1406534130}

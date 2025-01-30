@@ -225,6 +225,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7512711512294038750, guid: 818406eb2e57fc84785605b977baaf03, type: 3}
   m_PrefabInstance: {fileID: 380428508410566746}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &331309461 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5300430519638220165, guid: 818406eb2e57fc84785605b977baaf03, type: 3}
+  m_PrefabInstance: {fileID: 380428508410566746}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &459475917
 GameObject:
   m_ObjectHideFlags: 0
@@ -329,7 +334,6 @@ GameObject:
   - component: {fileID: 519420030}
   - component: {fileID: 519420033}
   - component: {fileID: 519420034}
-  - component: {fileID: 519420035}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -449,7 +453,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.539963, y: 1.5096021, z: -9.963902}
+  m_LocalPosition: {x: -24.54, y: -3.23, z: -9.963902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -499,103 +503,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7f7c2ef7921e129f993d56ddc3522e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!82 &519420035
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: cedc246053383be45aa0ce16c7c59cad, type: 3}
-  m_Resource: {fileID: 8300000, guid: cedc246053383be45aa0ce16c7c59cad, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 0.008
-  m_Pitch: 1
-  Loop: 1
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &540949295
 GameObject:
   m_ObjectHideFlags: 0
@@ -7640,7 +7547,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 653585160}
-  - component: {fileID: 653585159}
+  - component: {fileID: 653585161}
   m_Layer: 0
   m_Name: CameraConfine
   m_TagString: Untagged
@@ -7648,8 +7555,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!61 &653585159
-BoxCollider2D:
+--- !u!4 &653585160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 653585158}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.36246306, y: 0.15208335, z: 0.043448325}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &653585161
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -7678,37 +7600,21 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 31.501572, y: 4.411212}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 538.12146, y: 20.107386}
+  m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
---- !u!4 &653585160
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 653585158}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.36246306, y: 0.15208335, z: 0.043448325}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Points:
+  - {x: -0.7634322, y: -0.13500908}
+  - {x: 0.9502693, y: -0.6822075}
+  - {x: 0.20451498, y: 0.14993097}
+  - {x: -0.5603149, y: 0.25684643}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
 --- !u!1 &695001810
 GameObject:
   m_ObjectHideFlags: 0
@@ -8012,17 +7918,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1413878043 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1743076726901172353, guid: 818406eb2e57fc84785605b977baaf03, type: 3}
-  m_PrefabInstance: {fileID: 380428508410566746}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1420987659
 GameObject:
   m_ObjectHideFlags: 0
@@ -8207,7 +8102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f453f694addf4275988fac205bc91968, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BoundingShape2D: {fileID: 653585159}
+  BoundingShape2D: {fileID: 0}
   Damping: 0.5
   SlowingDistance: 5
   OversizeWindow:
@@ -8600,89 +8495,9 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 331309458}
     - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: slider
+      propertyPath: _audioSourceMenu
       value: 
-      objectReference: {fileID: 1413878043}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_body_fuego
-      value: 
-      objectReference: {fileID: -7974172980471477819, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_cabeza_fuego
-      value: 
-      objectReference: {fileID: 921939107963088460, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_body_estrella
-      value: 
-      objectReference: {fileID: -4525348155893145611, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_body_superman
-      value: 
-      objectReference: {fileID: 8946705397102689618, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_brazo_der_fuego
-      value: 
-      objectReference: {fileID: 210158189145251922, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_brazo_izq_fuego
-      value: 
-      objectReference: {fileID: 2615503336063654503, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_cabeza_estrella
-      value: 
-      objectReference: {fileID: -3157774789737742378, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_cabeza_superman
-      value: 
-      objectReference: {fileID: 546624286021485963, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_der_fuego
-      value: 
-      objectReference: {fileID: 2764354254071858868, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_der_salta
-      value: 
-      objectReference: {fileID: 8618464092677942025, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_izq_fuego
-      value: 
-      objectReference: {fileID: -8820611735057872096, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_izq_salta
-      value: 
-      objectReference: {fileID: 1364267662637829779, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_brazo_der_estrella
-      value: 
-      objectReference: {fileID: -259766494236850342, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_brazo_der_superman
-      value: 
-      objectReference: {fileID: -5505311032467051082, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_brazo_izq_estrella
-      value: 
-      objectReference: {fileID: -4986457712948966068, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_brazo_izq_superman
-      value: 
-      objectReference: {fileID: -503901180175678524, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_der_estrella
-      value: 
-      objectReference: {fileID: 746638942, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_der_superman
-      value: 
-      objectReference: {fileID: 8079856693515468748, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_izq_estrella
-      value: 
-      objectReference: {fileID: 147909552, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-    - target: {fileID: 81206856335859460, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
-      propertyPath: sprite_pierna_izq_superman
-      value: 
-      objectReference: {fileID: -8990989454564422459, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+      objectReference: {fileID: 331309461}
     - target: {fileID: 1981072709722844963, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
       propertyPath: m_Name
       value: Mono

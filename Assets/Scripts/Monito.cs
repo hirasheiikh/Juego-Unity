@@ -72,7 +72,8 @@ public class Monito : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
-    private AudioSource _audioSource;
+    public AudioSource _audioSourceMenu;
+    private AudioSource _audioSourceJuego;
 
     private float direction = 0f;
     private float directionY = 0;
@@ -102,7 +103,7 @@ public class Monito : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        _audioSource = GetComponent<AudioSource>();
+        _audioSourceJuego = GetComponent<AudioSource>();
 
         GameManager.instance.monito = this;
 
@@ -189,7 +190,16 @@ public class Monito : MonoBehaviour
     public void OnPause(CallbackContext ctx)
     {
         if (ctx.performed) Pause();
-        if (_isPaused) _audioSource.Play();
+        if (_isPaused)
+        {
+            _audioSourceJuego.Stop();
+            _audioSourceMenu.Play();
+        }
+        else
+        {
+            _audioSourceJuego.Play();
+            _audioSourceMenu.Stop();
+        }
     }
 
     public void OnShoot(CallbackContext ctx)
