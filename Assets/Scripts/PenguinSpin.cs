@@ -3,6 +3,7 @@ using UnityEngine;
 public class PenguinSpin : MonoBehaviour
 {
     public string collisionTag;
+    public string playerTag;
     public float speed;
 
     private Rigidbody2D rb;
@@ -29,7 +30,10 @@ public class PenguinSpin : MonoBehaviour
             Debug.Log(collision.gameObject.name);
             direction *= -1;
         }
+        else if (collision.gameObject.tag == playerTag)
+        {
+            GameManager.instance.monito.Damage();
 
-
+        }
     }
 }

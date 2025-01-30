@@ -151,7 +151,7 @@ public class Monito : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
 
-        slider.value = hp / max_hp;
+        //slider.value = hp / max_hp;
     }
 
     public void Pause()
@@ -171,7 +171,7 @@ public class Monito : MonoBehaviour
 
     public void Damage()
     {
-        damageParticle.Play();
+        //damageParticle.Play();
         hp = hp - 20;
     }
 

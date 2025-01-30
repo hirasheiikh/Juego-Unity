@@ -7,7 +7,7 @@ public class PowerUps : MonoBehaviour
 
     private Rigidbody2D rb;
     
-    private float direction = 1f;
+    //private float direction = 1f;
     
     private void Awake()
     {
