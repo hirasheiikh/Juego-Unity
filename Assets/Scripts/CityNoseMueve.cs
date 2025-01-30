@@ -15,7 +15,7 @@ public class CityNoseMueve : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            GameManager.instance.monito.Damage();
+            GameManager.instance.monito.Damage(20);
         }
     }
 }

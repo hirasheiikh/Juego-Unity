@@ -33,7 +33,7 @@ public class CityQmeAtaca : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            GameManager.instance.monito.Damage();
+            GameManager.instance.monito.Damage(20);
             //string currentSceneName = SceneManager.GetActiveScene().name;
             //SceneManager.LoadScene(name);
             //GameManager.instance.player.Damage();
