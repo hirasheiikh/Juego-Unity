@@ -171,6 +171,7 @@ public class Monito : MonoBehaviour
     public void Damage()
     {
         damageParticle.Play();
+        hp = hp - 20;
     }
 
     public void OnMove(CallbackContext ctx)
