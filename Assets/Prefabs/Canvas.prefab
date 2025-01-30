@@ -836,6 +836,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7162253192189403303}
+  - component: {fileID: 8337203258917699922}
   m_Layer: 5
   m_Name: BarraVida
   m_TagString: Untagged
@@ -864,6 +865,19 @@ RectTransform:
   m_AnchoredPosition: {x: -368.1, y: 229.70001}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &8337203258917699922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149071320539569976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ff6146ad08e48f4286ad2a4b43ef48a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  barraHp: {fileID: 86481419964045673}
 --- !u!1 &7512711512294038750
 GameObject:
   m_ObjectHideFlags: 0

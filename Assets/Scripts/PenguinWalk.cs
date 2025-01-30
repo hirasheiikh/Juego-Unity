@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class PenguinWalk : MonoBehaviour
 {
-   public string collisionTag;
+    public string collisionTag;
     public string playerTag;
     public float speed;
+    public int hpEnemy;
 
     private Rigidbody2D rb;
     private float direction = 1f;
@@ -44,8 +45,5 @@ public class PenguinWalk : MonoBehaviour
             //Destroy(gameObject);
 
         }
-
-
-
     }
 }

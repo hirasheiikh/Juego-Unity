@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.UI;
 using static UnityEngine.InputSystem.InputAction;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class Monito : MonoBehaviour
@@ -63,13 +64,6 @@ public class Monito : MonoBehaviour
     public Sprite sprite_pierna_izq_salta;
     public Sprite sprite_pierna_der_salta;
 
-    public Sprite sprite_cabeza_grande;
-    public Sprite sprite_brazo_izq_grande;
-    public Sprite sprite_brazo_der_grande;
-    public Sprite sprite_pierna_izq_grande;
-    public Sprite sprite_pierna_der_grande;
-    public Sprite sprite_body_grande;
-
     private Rigidbody2D rb;
     private Animator animator;
     public AudioSource _audioSourceMenu;
@@ -85,6 +79,7 @@ public class Monito : MonoBehaviour
     private bool _estrella;
     private bool _grande;
     private bool _salta;
+    public bool superman;
     public GameObject bolaHielo;
     public GameObject bolaFuego;
     public GameObject bolaEstrella;
@@ -172,6 +167,10 @@ public class Monito : MonoBehaviour
     public void Damage(int dmg)
     {
         hp -= dmg;
+        if (hp <= 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     public void OnMove(CallbackContext ctx)
@@ -256,6 +255,7 @@ public class Monito : MonoBehaviour
         brazo_der.sprite = sprite_brazo_der_superman;
         brazo_izq.sprite = sprite_brazo_izq_superman;
         body.sprite = sprite_body_superman;
+        superman = true;
     }
 
     public void activar_estrella()
@@ -304,5 +304,6 @@ public class Monito : MonoBehaviour
         _fuego = false;
         _salta = false;
         _grande = false;
+        superman = false;
     }
 }

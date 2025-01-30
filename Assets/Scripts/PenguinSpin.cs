@@ -32,7 +32,7 @@ public class PenguinSpin : MonoBehaviour
         }
         else if (collision.gameObject.tag == playerTag)
         {
-            GameManager.instance.monito.Damage();
+            GameManager.instance.monito.Damage(20);
 
         }
     }
