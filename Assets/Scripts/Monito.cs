@@ -1,10 +1,8 @@
-using System.Runtime.InteropServices;
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.UI;
 using static UnityEngine.InputSystem.InputAction;
 using TMPro;
-using static System.Net.Mime.MediaTypeNames;
-using UnityEngine.UIElements;
 
 public class Monito : MonoBehaviour
 {
@@ -14,9 +12,7 @@ public class Monito : MonoBehaviour
     //public float shootForce = 50;
     //public float bulletLifetime = 5;
 
-
     public LayerMask groundMask;
-    public GameObject bulletPrefab;
     public Transform spawnPosition;
     public ParticleSystem damageParticle;
 
@@ -26,7 +22,6 @@ public class Monito : MonoBehaviour
     public SpriteRenderer pierna_izq;
     public SpriteRenderer pierna_der;
     public SpriteRenderer body;
-
 
     public Sprite sprite_cabeza_hielo;
     public Sprite sprite_brazo_izq_hielo;
@@ -68,26 +63,36 @@ public class Monito : MonoBehaviour
 
     private Rigidbody2D rb;
     private Animator animator;
-    //private AudioSource _audioSource;
+    private AudioSource _audioSource;
 
     private float direction = 0f;
     private float directionY = 0;
     private bool grounded = true;
     //private float time;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [SerializeField]
+    private bool _isPaused;
+    public GameObject menu;
+
+    public Slider slider;
+    public float hp;
+    public float max_hp;
+
+    public TMP_Text text;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        //_audioSource = GetComponent<AudioSource>();
+        _audioSource = GetComponent<AudioSource>();
 
         GameManager.instance.monito = this;
+
+        _isPaused = false;
+        menu.SetActive(false);
     }
     private void FixedUpdate()
     {
-
-
         rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
         if (grounded)
         {
@@ -110,6 +115,21 @@ public class Monito : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
 
+        slider.value = hp / max_hp;
+    }
+    public void Pause()
+    {
+        _isPaused = !_isPaused;
+        if (_isPaused)
+        {
+            Time.timeScale = 0f;
+            menu.SetActive(true);
+        }
+        else
+        {
+            Time.timeScale = 1f;
+            menu.SetActive(false);
+        }
     }
 
     public void Damage()
@@ -127,6 +147,12 @@ public class Monito : MonoBehaviour
     public void OnJump(CallbackContext ctx)
     {
         directionY = ctx.ReadValue<float>();
+    }
+
+    public void OnPause(CallbackContext ctx)
+    {
+        if (ctx.performed) Pause();
+        if (_isPaused) _audioSource.Play();
     }
 
     public void activar_hielo()
@@ -179,6 +205,4 @@ public class Monito : MonoBehaviour
     {
         
     }
-
-
 }
