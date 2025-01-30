@@ -77,7 +77,6 @@
     <Compile Include="Assets\Scripts\PenguinWalk.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\PowerUps.cs" />
-    <Compile Include="Assets\Scripts\CityQmeAtaca.cs" />
     <Compile Include="Assets\Scripts\ParallaxLayer.cs" />
   </ItemGroup>
   <ItemGroup>
