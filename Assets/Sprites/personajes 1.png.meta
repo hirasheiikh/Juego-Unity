@@ -218,10 +218,10 @@ TextureImporter:
       name: personajes_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 455
-        width: 53
-        height: 37
+        x: 38
+        y: 456
+        width: 51
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +240,10 @@ TextureImporter:
       name: personajes_1
       rect:
         serializedVersion: 2
-        x: 241
-        y: 448
-        width: 54
-        height: 38
+        x: 242
+        y: 449
+        width: 52
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: personajes_2
       rect:
         serializedVersion: 2
-        x: 363
-        y: 438
-        width: 53
-        height: 54
+        x: 364
+        y: 439
+        width: 51
+        height: 52
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,12 +284,12 @@ TextureImporter:
       name: personajes_3
       rect:
         serializedVersion: 2
-        x: 27
-        y: 434
-        width: 14
-        height: 15
-      alignment: 9
-      pivot: {x: 0.7495891, y: 0.7562948}
+        x: 28
+        y: 435
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -306,10 +306,10 @@ TextureImporter:
       name: personajes_4
       rect:
         serializedVersion: 2
-        x: 50
-        y: 426
-        width: 28
-        height: 23
+        x: 51
+        y: 427
+        width: 26
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,12 +328,12 @@ TextureImporter:
       name: personajes_5
       rect:
         serializedVersion: 2
-        x: 92
-        y: 434
-        width: 14
-        height: 15
-      alignment: 9
-      pivot: {x: 0.24750955, y: 0.76587117}
+        x: 93
+        y: 435
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -350,10 +350,10 @@ TextureImporter:
       name: personajes_6
       rect:
         serializedVersion: 2
-        x: 225
-        y: 428
-        width: 13
-        height: 14
+        x: 226
+        y: 429
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +372,10 @@ TextureImporter:
       name: personajes_7
       rect:
         serializedVersion: 2
-        x: 255
-        y: 421
-        width: 27
-        height: 21
+        x: 256
+        y: 422
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: personajes_8
       rect:
         serializedVersion: 2
-        x: 295
-        y: 430
-        width: 13
-        height: 14
+        x: 296
+        y: 431
+        width: 11
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: personajes_9
       rect:
         serializedVersion: 2
-        x: 376
-        y: 412
-        width: 26
-        height: 22
+        x: 40
+        y: 411
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,10 +438,10 @@ TextureImporter:
       name: personajes_10
       rect:
         serializedVersion: 2
-        x: 39
-        y: 410
-        width: 15
-        height: 10
+        x: 73
+        y: 411
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,10 +460,10 @@ TextureImporter:
       name: personajes_11
       rect:
         serializedVersion: 2
-        x: 72
-        y: 410
-        width: 15
-        height: 10
+        x: 353
+        y: 419
+        width: 11
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,12 +482,12 @@ TextureImporter:
       name: personajes_12
       rect:
         serializedVersion: 2
-        x: 352
-        y: 418
-        width: 13
-        height: 15
-      alignment: 9
-      pivot: {x: 0.80428135, y: 0.76371056}
+        x: 377
+        y: 413
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -504,12 +504,12 @@ TextureImporter:
       name: personajes_13
       rect:
         serializedVersion: 2
-        x: 419
-        y: 418
-        width: 13
-        height: 15
-      alignment: 9
-      pivot: {x: 0.20180805, y: 0.76898396}
+        x: 420
+        y: 419
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -526,10 +526,10 @@ TextureImporter:
       name: personajes_14
       rect:
         serializedVersion: 2
-        x: 246
-        y: 405
-        width: 14
-        height: 9
+        x: 247
+        y: 406
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +548,10 @@ TextureImporter:
       name: personajes_15
       rect:
         serializedVersion: 2
-        x: 280
-        y: 406
-        width: 14
-        height: 9
+        x: 281
+        y: 407
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -570,10 +570,10 @@ TextureImporter:
       name: personajes_16
       rect:
         serializedVersion: 2
-        x: 362
-        y: 392
-        width: 14
-        height: 9
+        x: 363
+        y: 393
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -592,10 +592,10 @@ TextureImporter:
       name: personajes_17
       rect:
         serializedVersion: 2
-        x: 403
-        y: 393
-        width: 14
-        height: 9
+        x: 404
+        y: 394
+        width: 12
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -614,10 +614,10 @@ TextureImporter:
       name: personajes_18
       rect:
         serializedVersion: 2
-        x: 249
-        y: 332
-        width: 54
-        height: 49
+        x: 250
+        y: 333
+        width: 52
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,10 +636,10 @@ TextureImporter:
       name: personajes_19
       rect:
         serializedVersion: 2
-        x: 133
-        y: 276
-        width: 52
-        height: 36
+        x: 134
+        y: 277
+        width: 50
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -658,12 +658,12 @@ TextureImporter:
       name: personajes_20
       rect:
         serializedVersion: 2
-        x: 233
-        y: 307
-        width: 13
-        height: 15
-      alignment: 9
-      pivot: {x: 0.7240155, y: 0.78151244}
+        x: 234
+        y: 308
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -680,10 +680,10 @@ TextureImporter:
       name: personajes_21
       rect:
         serializedVersion: 2
-        x: 259
-        y: 293
-        width: 34
-        height: 37
+        x: 260
+        y: 303
+        width: 32
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -702,12 +702,12 @@ TextureImporter:
       name: personajes_22
       rect:
         serializedVersion: 2
-        x: 310
-        y: 307
-        width: 13
-        height: 15
-      alignment: 9
-      pivot: {x: 0.27598688, y: 0.80092776}
+        x: 311
+        y: 308
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -724,12 +724,12 @@ TextureImporter:
       name: personajes_23
       rect:
         serializedVersion: 2
-        x: 120
-        y: 241
-        width: 14
-        height: 15
-      alignment: 9
-      pivot: {x: 0.74651664, y: 0.7776855}
+        x: 121
+        y: 242
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -746,10 +746,10 @@ TextureImporter:
       name: personajes_24
       rect:
         serializedVersion: 2
-        x: 144
-        y: 235
-        width: 27
-        height: 25
+        x: 145
+        y: 236
+        width: 25
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -768,12 +768,12 @@ TextureImporter:
       name: personajes_25
       rect:
         serializedVersion: 2
-        x: 182
-        y: 239
-        width: 14
-        height: 15
-      alignment: 9
-      pivot: {x: 0.2619836, y: 0.7618174}
+        x: 183
+        y: 240
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -790,10 +790,10 @@ TextureImporter:
       name: personajes_26
       rect:
         serializedVersion: 2
-        x: 142
-        y: 215
-        width: 13
-        height: 12
+        x: 143
+        y: 216
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,10 +812,10 @@ TextureImporter:
       name: personajes_27
       rect:
         serializedVersion: 2
-        x: 160
-        y: 215
-        width: 13
-        height: 12
+        x: 161
+        y: 216
+        width: 11
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -834,10 +834,10 @@ TextureImporter:
       name: personajes_28
       rect:
         serializedVersion: 2
-        x: 155
-        y: 146
-        width: 6
-        height: 10
+        x: 156
+        y: 147
+        width: 4
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -856,10 +856,10 @@ TextureImporter:
       name: personajes_29
       rect:
         serializedVersion: 2
-        x: 354
-        y: 133
-        width: 59
-        height: 36
+        x: 355
+        y: 134
+        width: 57
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -878,12 +878,12 @@ TextureImporter:
       name: personajes_30
       rect:
         serializedVersion: 2
-        x: 353
-        y: 113
-        width: 11
-        height: 15
-      alignment: 9
-      pivot: {x: 0.79667246, y: 0.7393148}
+        x: 354
+        y: 114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -900,10 +900,10 @@ TextureImporter:
       name: personajes_31
       rect:
         serializedVersion: 2
-        x: 373
-        y: 106
-        width: 27
-        height: 22
+        x: 374
+        y: 107
+        width: 25
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,12 +922,12 @@ TextureImporter:
       name: personajes_32
       rect:
         serializedVersion: 2
-        x: 410
-        y: 112
-        width: 11
-        height: 15
-      alignment: 9
-      pivot: {x: 0.17366444, y: 0.7393138}
+        x: 411
+        y: 113
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -944,10 +944,10 @@ TextureImporter:
       name: personajes_33
       rect:
         serializedVersion: 2
-        x: 367
-        y: 90
-        width: 13
-        height: 9
+        x: 368
+        y: 91
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -966,10 +966,10 @@ TextureImporter:
       name: personajes_34
       rect:
         serializedVersion: 2
-        x: 392
-        y: 90
-        width: 13
-        height: 9
+        x: 393
+        y: 91
+        width: 11
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -980,6 +980,50 @@ TextureImporter:
       bones: []
       spriteID: b8dfaf400bd4bd8d0800000000000000
       internalID: -2820575323224343157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 294
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43183be9a3c4bd347b0572a0dc7cc10f
+      internalID: 147909552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 294
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd244a2f92a778b668d351b560bb12d4
+      internalID: 746638942
       vertices: []
       indices: 
       edges: []
@@ -1027,6 +1071,8 @@ TextureImporter:
       personajes_32: 6033056114807278358
       personajes_33: 7043008718251831072
       personajes_34: -2820575323224343157
+      personajes_35: 147909552
+      personajes_36: 746638942
       personajes_4: -3447738649475369362
       personajes_5: -2379475321107421134
       personajes_6: -503901180175678524
