@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Damage.cs" />
     <Compile Include="Assets\Scripts\DamageEnemy.cs" />
     <Compile Include="Assets\Scripts\CityNoseMueve.cs" />
+    <Compile Include="Assets\Scripts\Chase.cs" />
     <Compile Include="Assets\Scripts\Monito.cs" />
     <Compile Include="Assets\Scripts\ButtonManager.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
