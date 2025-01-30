@@ -294,5 +294,6 @@ public class Monito : MonoBehaviour
         _estrella = false;
         _fuego = false;
         _salta = false;
+        _grande = false;
     }
 }
