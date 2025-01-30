@@ -169,10 +169,9 @@ public class Monito : MonoBehaviour
         }
     }
 
-    public void Damage()
+    public void Damage(int dmg)
     {
-        damageParticle.Play();
-        hp = hp - 20;
+        hp -= dmg;
     }
 
     public void OnMove(CallbackContext ctx)
