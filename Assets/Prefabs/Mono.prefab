@@ -137,8 +137,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
+  speedEstrella: 0
   jumpSpeed: 20
+  jumpSpeedPowerUp: 30
   groundCheckDistance: 0.9
+  shootForce: 50
+  bulletLifetime: 5
   groundMask:
     serializedVersion: 2
     m_Bits: 64
@@ -150,38 +154,47 @@ MonoBehaviour:
   pierna_izq: {fileID: 1417102898385651349}
   pierna_der: {fileID: 2159326293898692218}
   body: {fileID: 4008539885846597047}
+  Cabeza: {fileID: 0}
+  BrazoIzq: {fileID: 0}
+  BrazoDer: {fileID: 0}
+  PiernaIzq: {fileID: 0}
+  PiernaDer: {fileID: 0}
+  Body: {fileID: 0}
   sprite_cabeza_hielo: {fileID: -2807883358696216636, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_brazo_izq_hielo: {fileID: -2491046693880665716, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_brazo_der_hielo: {fileID: 6033056114807278358, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_pierna_izq_hielo: {fileID: 7043008718251831072, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_pierna_der_hielo: {fileID: -2820575323224343157, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_body_hielo: {fileID: 5506848263174021956, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-  sprite_cabeza_fuego: {fileID: 0}
-  sprite_brazo_izq_fuego: {fileID: 0}
-  sprite_brazo_der_fuego: {fileID: 0}
-  sprite_pierna_izq_fuego: {fileID: 0}
-  sprite_pierna_der_fuego: {fileID: 0}
-  sprite_body_fuego: {fileID: 0}
-  sprite_cabeza_superman: {fileID: 0}
-  sprite_brazo_izq_superman: {fileID: 0}
-  sprite_brazo_der_superman: {fileID: 0}
-  sprite_pierna_izq_superman: {fileID: 0}
-  sprite_pierna_der_superman: {fileID: 0}
-  sprite_body_superman: {fileID: 0}
-  sprite_cabeza_estrella: {fileID: 0}
-  sprite_brazo_izq_estrella: {fileID: 0}
-  sprite_brazo_der_estrella: {fileID: 0}
-  sprite_pierna_izq_estrella: {fileID: 0}
-  sprite_pierna_der_estrella: {fileID: 0}
-  sprite_body_estrella: {fileID: 0}
-  sprite_pierna_izq_salta: {fileID: 0}
-  sprite_pierna_der_salta: {fileID: 0}
+  sprite_cabeza_fuego: {fileID: 921939107963088460, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_brazo_izq_fuego: {fileID: 2615503336063654503, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_brazo_der_fuego: {fileID: 210158189145251922, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_izq_fuego: {fileID: -8820611735057872096, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_der_fuego: {fileID: 2764354254071858868, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_body_fuego: {fileID: -7974172980471477819, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_cabeza_superman: {fileID: 546624286021485963, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_brazo_izq_superman: {fileID: -503901180175678524, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_brazo_der_superman: {fileID: -5505311032467051082, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_izq_superman: {fileID: -8990989454564422459, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_der_superman: {fileID: 8079856693515468748, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_body_superman: {fileID: 8946705397102689618, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_cabeza_estrella: {fileID: -3157774789737742378, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_brazo_izq_estrella: {fileID: -4986457712948966068, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_brazo_der_estrella: {fileID: -259766494236850342, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_izq_estrella: {fileID: 147909552, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_der_estrella: {fileID: 746638942, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_body_estrella: {fileID: -4525348155893145611, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_izq_salta: {fileID: 1364267662637829779, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
+  sprite_pierna_der_salta: {fileID: 8618464092677942025, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_cabeza_grande: {fileID: 0}
   sprite_brazo_izq_grande: {fileID: 0}
   sprite_brazo_der_grande: {fileID: 0}
   sprite_pierna_izq_grande: {fileID: 0}
   sprite_pierna_der_grande: {fileID: 0}
   sprite_body_grande: {fileID: 0}
+  bolaHielo: {fileID: 0}
+  bolaFuego: {fileID: 0}
+  bolaEstrella: {fileID: 0}
   _isPaused: 0
   menu: {fileID: 0}
   slider: {fileID: 0}
@@ -365,6 +378,14 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: f4ee2166-d527-46e0-b573-9154da846115
     m_ActionName: 'Player/Pause[/Keyboard/p,/Keyboard/escape]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: ddcbf40d-247e-453b-a318-b2d64123c312
+    m_ActionName: 'Player/Restart[/Keyboard/r]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: c3ee1566-5c1d-460a-8b85-ac97208fbebb
+    m_ActionName: 'Player/Shoot[/Keyboard/space,/Mouse/leftButton]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
