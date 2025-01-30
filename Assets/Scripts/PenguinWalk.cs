@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PenguinWalk : MonoBehaviour
 {
-    public string collisionTag;
+   public string collisionTag;
     public string playerTag;
     public float speed;
 
@@ -40,8 +40,9 @@ public class PenguinWalk : MonoBehaviour
         }
         else if (collision.gameObject.tag == playerTag)
         {
-            //GameManager.instance.monito.Damage();
-            Destroy(gameObject);
+            GameManager.instance.monito.Damage();
+            //Destroy(gameObject);
+
         }
 
 
