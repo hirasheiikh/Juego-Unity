@@ -145,8 +145,6 @@ public class Monito : MonoBehaviour
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
-
-        //slider.value = hp / max_hp;
     }
 
     public void Pause()
@@ -219,7 +217,6 @@ public class Monito : MonoBehaviour
         Rigidbody2D bulletRB = bullet.GetComponent<Rigidbody2D>();
         bulletRB.linearVelocity = (spawnPosition.position - transform.position).normalized * shootForce * Vector2.right;
         Destroy(bullet, bulletLifetime);
-        _time = 1f;
     }
 
     public void activar_hielo()
