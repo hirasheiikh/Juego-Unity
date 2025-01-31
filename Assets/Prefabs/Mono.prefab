@@ -143,7 +143,7 @@ MonoBehaviour:
   jumpSpeedPowerUp: 30
   groundCheckDistance: 0.9
   shootForce: 50
-  bulletLifetime: 5
+  bulletLifetime: 3
   groundMask:
     serializedVersion: 2
     m_Bits: 64
@@ -187,13 +187,8 @@ MonoBehaviour:
   sprite_body_estrella: {fileID: -4525348155893145611, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_pierna_izq_salta: {fileID: 1364267662637829779, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
   sprite_pierna_der_salta: {fileID: 8618464092677942025, guid: 632ee2d2c2cfd8f4881984a1de47175a, type: 3}
-  sprite_cabeza_grande: {fileID: 0}
-  sprite_brazo_izq_grande: {fileID: 0}
-  sprite_brazo_der_grande: {fileID: 0}
-  sprite_pierna_izq_grande: {fileID: 0}
-  sprite_pierna_der_grande: {fileID: 0}
-  sprite_body_grande: {fileID: 0}
   _audioSourceMenu: {fileID: 0}
+  superman: 0
   bolaHielo: {fileID: 2480560924097634914, guid: 5ba717aee38c1fd4081e5ad5120f3b2f, type: 3}
   bolaFuego: {fileID: 3314939199104804236, guid: f4a163e0c6900a3438e8891af9f3a886, type: 3}
   bolaEstrella: {fileID: 8205609085636309192, guid: e67ddc31bc51ef54fb3a82a9977ce4fe, type: 3}

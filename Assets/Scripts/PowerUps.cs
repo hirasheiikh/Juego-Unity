@@ -3,11 +3,7 @@ using UnityEngine;
 public class PowerUps : MonoBehaviour
 {
     public string playerTag;
-    public float speed;
-
     private Rigidbody2D rb;
-    
-    //private float direction = 1f;
     
     private void Awake()
     {
@@ -18,16 +14,11 @@ public class PowerUps : MonoBehaviour
     {
 
     }
-    private void FixedUpdate()
-    {
-        //rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
-    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == playerTag)
         {
-            //GameManager.instance.monito.Damage();
             Destroy(gameObject);
             if (gameObject.name == "powerUpHielo")
             {
@@ -50,7 +41,5 @@ public class PowerUps : MonoBehaviour
                 if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_grande();
             }
         }
-
-
     }
 }

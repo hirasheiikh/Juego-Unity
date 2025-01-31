@@ -124,7 +124,7 @@ public class Monito : MonoBehaviour
             }
         }
 
-            rb.linearVelocity = new Vector2(direction * (_estrella ? speedEstrella : speed), rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(direction * (_estrella ? speedEstrella : speed), rb.linearVelocity.y);
         if (grounded)
         {
             rb.linearVelocity += (_salta ? jumpSpeedPowerUp : jumpSpeed) * Vector2.up * directionY;
@@ -241,6 +241,7 @@ public class Monito : MonoBehaviour
         brazo_izq.sprite = sprite_brazo_izq_fuego;
         body.sprite = sprite_body_fuego;
         _fuego = true;
+
     }
 
     public void activar_superman()
@@ -291,6 +292,10 @@ public class Monito : MonoBehaviour
             transform.localScale = new Vector2(1, 1);
         }
         cabeza.sprite = Cabeza;
+        if (_fuego)
+        {
+            cabeza.transform.localPosition -= new Vector3(0, 2f, 0);
+        }
         pierna_izq.sprite = PiernaIzq;
         pierna_der.sprite = PiernaDer;
         brazo_der.sprite = BrazoDer;
