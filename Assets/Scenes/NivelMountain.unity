@@ -858,7 +858,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.50335, y: 1.6066599, z: -9.963902}
+  m_LocalPosition: {x: -24.503286, y: 1.6066599, z: -9.963902}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -935,7 +935,7 @@ Transform:
   m_GameObject: {fileID: 540949295}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.752335, y: -5.353, z: 0}
+  m_LocalPosition: {x: 24.752344, y: -5.353, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11695,7 +11695,7 @@ Transform:
   m_GameObject: {fileID: 944608842}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.74883, y: -5.309, z: 0}
+  m_LocalPosition: {x: 24.748837, y: -5.309, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12140,7 +12140,7 @@ Transform:
   m_GameObject: {fileID: 1062408542}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.771849, y: -5.413, z: 0}
+  m_LocalPosition: {x: 24.771843, y: -5.413, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12415,7 +12415,7 @@ Transform:
   m_GameObject: {fileID: 1552445268}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.747665, y: -5.585, z: 0}
+  m_LocalPosition: {x: 24.747656, y: -5.585, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13693,6 +13693,54 @@ PrefabInstance:
     - target: {fileID: 1981072709722844963, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
       propertyPath: m_Name
       value: Mono
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: lengthInSec
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: playOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: -0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: ShapeModule.m_Scale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: ShapeModule.m_Scale.z
+      value: 0.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: ShapeModule.m_Rotation.y
+      value: -83.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: InitialModule.startSpeed.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3543399891291688365, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
+      propertyPath: EmissionModule.rateOverDistance.scalar
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6114021342213682256, guid: f16229115e1f98ce7af53d29ff9b0c56, type: 3}
       propertyPath: m_LocalPosition.x

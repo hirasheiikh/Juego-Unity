@@ -3,7 +3,6 @@ using UnityEngine.Rendering;
 using UnityEngine.UI;
 using static UnityEngine.InputSystem.InputAction;
 using UnityEngine.SceneManagement;
-using TMPro;
 
 public class Monito : MonoBehaviour
 {
@@ -17,7 +16,7 @@ public class Monito : MonoBehaviour
 
     public LayerMask groundMask;
     public Transform spawnPosition;
-    public ParticleSystem damageParticle;
+    public ParticleSystem walkParticle;
 
     public SpriteRenderer cabeza;
     public SpriteRenderer brazo_izq;
@@ -88,11 +87,8 @@ public class Monito : MonoBehaviour
     private bool _isPaused;
     public GameObject menu;
 
-    public Slider slider;
     public float hp;
     public float max_hp;
-
-    public TMP_Text text;
 
     private void Awake()
     {
@@ -145,6 +141,11 @@ public class Monito : MonoBehaviour
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
+
+        if (transform.position.y < -30f)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     public void Pause()
@@ -177,8 +178,7 @@ public class Monito : MonoBehaviour
     public void OnMove(CallbackContext ctx)
     {
         direction = ctx.ReadValue<float>();
-        Debug.Log(direction);
-
+        if (grounded) walkParticle.Play();
     }
 
     public void OnJump(CallbackContext ctx)
