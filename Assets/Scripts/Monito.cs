@@ -164,10 +164,13 @@ public class Monito : MonoBehaviour
 
     public void Damage(int dmg)
     {
-        hp -= dmg;
-        if (hp <= 0)
+        if (!superman)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            hp -= dmg;
+            if (hp <= 0)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
         }
     }
 

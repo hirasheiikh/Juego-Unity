@@ -2,8 +2,6 @@ using UnityEngine;
 
 public class DamageEnemy : MonoBehaviour
 {
-    private bool Damaged = false;
-    private Animator animator;
     public int hpEnemy = 3;
     public void OnCollisionEnter2D(Collision2D collision)
     {
@@ -16,14 +14,6 @@ public class DamageEnemy : MonoBehaviour
         else if (collision.gameObject.tag == "Player" && GameManager.instance.monito.superman)
         {
             Destroy(gameObject);
-        }
-
-        if (gameObject.tag == "Mushroom")
-        {
-            Damaged = (collision.gameObject.tag == "Bullet" || GameManager.instance.monito.superman);
-            animator.SetBool("Damaged", Damaged);
-            animator.SetInteger("Hp", hpEnemy);
-            Damaged = false;
         }
     }
 }

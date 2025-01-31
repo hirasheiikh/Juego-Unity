@@ -10,7 +10,7 @@ public class Damage : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if (collision.gameObject.tag == "Player" && !GameManager.instance.monito.superman)
         {
             GameManager.instance.monito.Damage(dmgAmount);
         }

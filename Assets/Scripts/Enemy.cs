@@ -24,7 +24,7 @@ public class Enemy : MonoBehaviour
         }
         else
         {
-            if (collision.gameObject.name == "Mono")
+            if (collision.gameObject.name == "Mono" && !GameManager.instance.monito.superman)
             {
                 _hp -= 20;
             }

@@ -39,11 +39,9 @@ public class PenguinWalk : MonoBehaviour
             Debug.Log(collision.gameObject.name);
             direction *= -1;
         }
-        if (collision.gameObject.tag == playerTag)
+        if (collision.gameObject.tag == playerTag && !GameManager.instance.monito.superman)
         {
             GameManager.instance.monito.Damage(20);
-            //Destroy(gameObject);
-
         }
     }
 }

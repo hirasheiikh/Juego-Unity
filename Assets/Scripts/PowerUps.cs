@@ -40,6 +40,10 @@ public class PowerUps : MonoBehaviour
             {
                 if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_grande();
             }
+            else if (gameObject.name == "powerUpSuperman")
+            {
+                if (collision.gameObject.tag == "Player") GameManager.instance.monito.activar_superman();
+            }
         }
     }
 }
